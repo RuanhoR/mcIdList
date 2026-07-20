@@ -13,9 +13,9 @@
 - Use `./data` assets(type see `DataType`)
 - Use the API in ./docs/api.md
 
-# DataType
+## DataType
 
-# TS Example
+#### TS Example
 
 ```typescript
 const allDataType = [
