@@ -9449,6 +9449,108 @@
       "ja": "黒の羊毛の階段",
       "zh": "黑色羊毛楼梯",
       "en": "Black Wool Stairs"
+    },
+    "white_cushion": {
+      "ko": "하얀색",
+      "ja": "白",
+      "zh": "白色",
+      "en": "White Cushion"
+    },
+    "orange_cushion": {
+      "ko": "주황색",
+      "ja": "橙色",
+      "zh": "橙色",
+      "en": "Orange Cushion"
+    },
+    "magenta_cushion": {
+      "ko": "자홍색",
+      "ja": "赤紫色",
+      "zh": "品红色",
+      "en": "Magenta Cushion"
+    },
+    "light_blue_cushion": {
+      "ko": "하늘색",
+      "ja": "水色",
+      "zh": "淡蓝色",
+      "en": "Light Blue Cushion"
+    },
+    "yellow_cushion": {
+      "ko": "노란색",
+      "ja": "黄",
+      "zh": "黄色",
+      "en": "Yellow Cushion"
+    },
+    "lime_cushion": {
+      "ko": "연두색",
+      "ja": "黄緑色",
+      "zh": "黄绿色",
+      "en": "Lime Cushion"
+    },
+    "pink_cushion": {
+      "ko": "분홍색",
+      "ja": "桃色",
+      "zh": "粉红色",
+      "en": "Pink Cushion"
+    },
+    "gray_cushion": {
+      "ko": "회색",
+      "ja": "灰色",
+      "zh": "灰色",
+      "en": "Gray Cushion"
+    },
+    "light_gray_cushion": {
+      "ko": "밝은 회색",
+      "ja": "薄灰色",
+      "zh": "淡灰色",
+      "en": "Light Gray Cushion"
+    },
+    "cyan_cushion": {
+      "ko": "청록색",
+      "ja": "青緑",
+      "zh": "青色",
+      "en": "Cyan Cushion"
+    },
+    "purple_cushion": {
+      "ko": "보라색",
+      "ja": "紫色",
+      "zh": "紫�的色",
+      "en": "Purple Cushion"
+    },
+    "blue_cushion": {
+      "ko": "파란색",
+      "ja": "青",
+      "zh": "蓝色",
+      "en": "Blue Cushion"
+    },
+    "brown_cushion": {
+      "ko": "갈색",
+      "ja": "茶色",
+      "zh": "棕色",
+      "en": "Brown Cushion"
+    },
+    "green_cushion": {
+      "ko": "초록색",
+      "ja": "緑色",
+      "zh": "绿色",
+      "en": "Green Cushion"
+    },
+    "red_cushion": {
+      "ko": "빨간색",
+      "ja": "赤色",
+      "zh": "红色",
+      "en": "Red Cushion"
+    },
+    "black_cushion": {
+      "ko": "검은색",
+      "ja": "黒",
+      "zh": "黑色",
+      "en": "Black Cushion"
+    },
+    "straw_bed": {
+      "ko": "밀짚 침대",
+      "ja": "麦わらのベッド",
+      "zh": "麦秆床",
+      "en": "Straw Bed"
     }
   },
   "effect": {
@@ -23135,6 +23237,102 @@
       "ja": "クッション",
       "zh": "坐垫",
       "en": "Cushion"
+    },
+    "white_cushion": {
+      "ko": "하얀색",
+      "ja": "白",
+      "zh": "白色",
+      "en": "White Cushion"
+    },
+    "orange_cushion": {
+      "ko": "주황색",
+      "ja": "橙色",
+      "zh": "橙色",
+      "en": "Orange Cushion"
+    },
+    "magenta_cushion": {
+      "ko": "자홍색",
+      "ja": "赤紫色",
+      "zh": "品红色",
+      "en": "Magenta Cushion"
+    },
+    "light_blue_cushion": {
+      "ko": "하늘색",
+      "ja": "水色",
+      "zh": "淡蓝色",
+      "en": "Light Blue Cushion"
+    },
+    "yellow_cushion": {
+      "ko": "노란색",
+      "ja": "黄",
+      "zh": "黄色",
+      "en": "Yellow Cushion"
+    },
+    "lime_cushion": {
+      "ko": "연두색",
+      "ja": "黄緑色",
+      "zh": "黄绿色",
+      "en": "Lime Cushion"
+    },
+    "pink_cushion": {
+      "ko": "분홍색",
+      "ja": "桃色",
+      "zh": "粉红色",
+      "en": "Pink Cushion"
+    },
+    "gray_cushion": {
+      "ko": "회색",
+      "ja": "灰色",
+      "zh": "灰色",
+      "en": "Gray Cushion"
+    },
+    "light_gray_cushion": {
+      "ko": "밝은 회색",
+      "ja": "薄灰色",
+      "zh": "淡灰色",
+      "en": "Light Gray Cushion"
+    },
+    "cyan_cushion": {
+      "ko": "청록색",
+      "ja": "青緑",
+      "zh": "青色",
+      "en": "Cyan Cushion"
+    },
+    "purple_cushion": {
+      "ko": "보라색",
+      "ja": "紫色",
+      "zh": "紫�的色",
+      "en": "Purple Cushion"
+    },
+    "blue_cushion": {
+      "ko": "파란색",
+      "ja": "青",
+      "zh": "蓝色",
+      "en": "Blue Cushion"
+    },
+    "brown_cushion": {
+      "ko": "갈색",
+      "ja": "茶色",
+      "zh": "棕色",
+      "en": "Brown Cushion"
+    },
+    "green_cushion": {
+      "ko": "초록색",
+      "ja": "緑色",
+      "zh": "绿色",
+      "en": "Green Cushion"
+    },
+    "red_cushion": {
+      "ko": "빨간색",
+      "ja": "赤色",
+      "zh": "红色",
+      "en": "Red Cushion"
+    },
+    "black_cushion": {
+      "ko": "검은색",
+      "ja": "黒",
+      "zh": "黑色",
+      "en": "Black Cushion"
     }
   },
   "block": {
@@ -30505,6 +30703,30 @@
       "ja": "黒羊毛の階段",
       "zh": "黑色羊毛楼梯",
       "en": "Black Wool Stairs"
+    },
+    "straw_bed": {
+      "ko": "밀짚 침대",
+      "ja": "麦わらのベッド",
+      "zh": "麦秆床",
+      "en": "Straw Bed"
+    },
+    "poplar_red_leaves": {
+      "ko": "빨간색 포플러잎",
+      "ja": "赤ポプラの葉",
+      "zh": "红色杨树树叶",
+      "en": "Red Poplar Leaves"
+    },
+    "poplar_orange_leaves": {
+      "ko": "주황색 포플러잎",
+      "ja": "橙ポプラの葉",
+      "zh": "橙色杨树树叶",
+      "en": "Orange Poplar Leaves"
+    },
+    "poplar_yellow_leaves": {
+      "ko": "노란색 포플러잎",
+      "ja": "黄ポプラの葉",
+      "zh": "黄色杨树树叶",
+      "en": "Yellow Poplar Leaves"
     }
   },
   "biome": {
@@ -47847,6 +48069,108 @@
       "ja": "[作業台] 黒の羊毛*6 -> 黒の羊毛の階段*4",
       "zh": "<工作台>黑色羊毛*6->黑色羊毛楼梯*4",
       "en": "[Crafting Table] Black Wool*6 -> Black Wool Stairs*4"
+    },
+    "minecraft:white_cushion": {
+      "ko": "[제작대] 하얀색 반 블록*3 ~> 하얀색",
+      "ja": "[作業台] 白ハーフブロック*3 ~> 白",
+      "zh": "<工作台>白色羊毛台阶*3~>白色坐垫",
+      "en": "[Crafting Table] White Wool Slab*3 ~> White Cushion"
+    },
+    "minecraft:orange_cushion": {
+      "ko": "[제작대] 주황색 반 블록*3 ~> 주황색",
+      "ja": "[作業台] 橙色ハーフブロック*3 ~> 橙色",
+      "zh": "<工作台>橙色羊毛台阶*3~>橙色坐垫",
+      "en": "[Crafting Table] Orange Wool Slab*3 ~> Orange Cushion"
+    },
+    "minecraft:magenta_cushion": {
+      "ko": "[제작대] 자홍색 반 블록*3 ~> 자홍색",
+      "ja": "[作業台] 赤紫色ハーフブロック*3 ~> 赤紫色",
+      "zh": "<工作台>品红色羊毛台阶*3~>品红色坐垫",
+      "en": "[Crafting Table] Magenta Wool Slab*3 ~> Magenta Cushion"
+    },
+    "minecraft:light_blue_cushion": {
+      "ko": "[제작대] 하늘색 반 블록*3 ~> 하늘색",
+      "ja": "[作業台] 水色ハーフブロック*3 ~> 水色",
+      "zh": "<工作台>淡蓝色羊毛台阶*3~>淡蓝色坐垫",
+      "en": "[Crafting Table] Light Blue Wool Slab*3 ~> Light Blue Cushion"
+    },
+    "minecraft:yellow_cushion": {
+      "ko": "[제작대] 노란색 반 블록*3 ~> 노란색",
+      "ja": "[作業台] 黄ハーフブロック*3 ~> 黄",
+      "zh": "<工作台>黄色羊毛台阶*3~>黄色坐垫",
+      "en": "[Crafting Table] Yellow Wool Slab*3 ~> Yellow Cushion"
+    },
+    "minecraft:lime_cushion": {
+      "ko": "[제작대] 연두색 반 블록*3 ~> 연두색",
+      "ja": "[作業台] 黄緑色ハーフブロック*3 ~> 黄緑色",
+      "zh": "<工作台>黄绿色羊毛台阶*3~>黄绿色坐垫",
+      "en": "[Crafting Table] Lime Wool Slab*3 ~> Lime Cushion"
+    },
+    "minecraft:pink_cushion": {
+      "ko": "[제작대] 분홍색 반 블록*3 ~> 분홍색",
+      "ja": "[作業台] 桃色ハーフブロック*3 ~> 桃色",
+      "zh": "<工作台>粉红色羊毛台阶*3~>粉红色坐垫",
+      "en": "[Crafting Table] Pink Wool Slab*3 ~> Pink Cushion"
+    },
+    "minecraft:gray_cushion": {
+      "ko": "[제작대] 회색 반 블록*3 ~> 회색",
+      "ja": "[作業台] 灰色ハーフブロック*3 ~> 灰色",
+      "zh": "<工作台>灰色羊毛台阶*3~>灰色坐垫",
+      "en": "[Crafting Table] Gray Wool Slab*3 ~> Gray Cushion"
+    },
+    "minecraft:light_gray_cushion": {
+      "ko": "[제작대] 밝은 회색 반 블록*3 ~> 밝은 회색",
+      "ja": "[作業台] 薄灰色ハーフブロック*3 ~> 薄灰色",
+      "zh": "<工作台>淡灰色羊毛台阶*3~>淡灰色坐垫",
+      "en": "[Crafting Table] Light Gray Wool Slab*3 ~> Light Gray Cushion"
+    },
+    "minecraft:cyan_cushion": {
+      "ko": "[제작대] 청록색 반 블록*3 ~> 청록색",
+      "ja": "[作業台] 青緑ハーフブロック*3 ~> 青緑",
+      "zh": "<工作台>青色羊毛台阶*3~>青色坐垫",
+      "en": "[Crafting Table] Cyan Wool Slab*3 ~> Cyan Cushion"
+    },
+    "minecraft:purple_cushion": {
+      "ko": "[제작대] 보라색 반 블록*3 ~> 보라색",
+      "ja": "[作業台] 紫色ハーフブロック*3 ~> 紫色",
+      "zh": "<工作台>紫�的色羊毛台阶*3~>紫�的色坐垫",
+      "en": "[Crafting Table] Purple Wool Slab*3 ~> Purple Cushion"
+    },
+    "minecraft:blue_cushion": {
+      "ko": "[제작대] 파란색 반 블록*3 ~> 파란색",
+      "ja": "[作業台] 青ハーフブロック*3 ~> 青",
+      "zh": "<工作台>蓝色羊毛台阶*3~>蓝色坐垫",
+      "en": "[Crafting Table] Blue Wool Slab*3 ~> Blue Cushion"
+    },
+    "minecraft:brown_cushion": {
+      "ko": "[제작대] 갈색 반 블록*3 ~> 갈색",
+      "ja": "[作業台] 茶色ハーフブロック*3 ~> 茶色",
+      "zh": "<工作台>棕色羊毛台阶*3~>棕色坐垫",
+      "en": "[Crafting Table] Brown Wool Slab*3 ~> Brown Cushion"
+    },
+    "minecraft:green_cushion": {
+      "ko": "[제작대] 초록색 반 블록*3 ~> 초록색",
+      "ja": "[作業台] 緑色ハーフブロック*3 ~> 緑色",
+      "zh": "<工作台>绿色羊毛台阶*3~>绿色坐垫",
+      "en": "[Crafting Table] Green Wool Slab*3 ~> Green Cushion"
+    },
+    "minecraft:red_cushion": {
+      "ko": "[제작대] 빨간색 반 블록*3 ~> 빨간색",
+      "ja": "[作業台] 赤色ハーフブロック*3 ~> 赤色",
+      "zh": "<工作台>红色羊毛台阶*3~>红色坐垫",
+      "en": "[Crafting Table] Red Wool Slab*3 ~> Red Cushion"
+    },
+    "minecraft:black_cushion": {
+      "ko": "[제작대] 검은색 반 블록*3 ~> 검은색",
+      "ja": "[作業台] 黒ハーフブロック*3 ~> 黒",
+      "zh": "<工作台>黑色羊毛台阶*3~>黑色坐垫",
+      "en": "[Crafting Table] Black Wool Slab*3 ~> Black Cushion"
+    },
+    "minecraft:straw_bed": {
+      "ko": "[제작대] 건초 벽돌*3 ~> 밀짚 침대*4",
+      "ja": "[作業台] 干し草の俵*3 ~> 麦わらのベッド*4",
+      "zh": "<工作台>干草捆*3~>麦秆床*4",
+      "en": "[Crafting Table] Hay Bale*3 ~> Straw Bed*4"
     }
   }
 }
