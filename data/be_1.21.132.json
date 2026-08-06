@@ -3354,12 +3354,6 @@
       "zh": "金胸甲",
       "en": "Golden Chestplate"
     },
-    "golden_dandelion": {
-      "ko": "금민들레",
-      "ja": "黄金のタンポポ",
-      "zh": "金蒲公英",
-      "en": "Golden Dandelion"
-    },
     "golden_helmet": {
       "ko": "금 투구",
       "ja": "金のヘルメット",
@@ -14930,222 +14924,6 @@
       "ko": "아욱스롯르： 이(가) 수영",
       "zh": "美西螈：游泳"
     },
-    "mob.baby_cat.ambient": {
-      "en": "Baby Cat: meows",
-      "ja": "子ネコがミャー",
-      "ko": "아기 고양이： 이(가) 야옹",
-      "zh": "幼年猫：喵~"
-    },
-    "mob.baby_cat.death": {
-      "en": "Baby Cat: dies",
-      "ja": "子ネコが死ぬ",
-      "ko": "아기 고양이： 이(가) 죽음",
-      "zh": "幼年猫：死亡"
-    },
-    "mob.baby_cat.eat": {
-      "en": "Baby Cat: eats",
-      "ja": "子ネコが食べる",
-      "ko": "아기 고양이： 이(가) 먹음",
-      "zh": "幼年猫：进食"
-    },
-    "mob.baby_cat.hurt": {
-      "en": "Baby Cat: hurt",
-      "ja": "子ネコが負傷",
-      "ko": "아기 고양이： 이(가) 부상",
-      "zh": "幼年猫：受伤"
-    },
-    "mob.baby_chicken.ambient": {
-      "en": "Baby Chicken: chirps",
-      "ja": "子ニワトリがチュンチュン",
-      "ko": "아기 닭： 이(가) 짹짹",
-      "zh": "幼年鸡：叽叽叫"
-    },
-    "mob.baby_chicken.death": {
-      "en": "Baby Chicken: dies",
-      "ja": "子ニワトリが死ぬ",
-      "ko": "아기 닭： 이(가) 죽음",
-      "zh": "幼年鸡：死亡"
-    },
-    "mob.baby_chicken.hurt": {
-      "en": "Baby Chicken: hurt",
-      "ja": "子ニワトリが負傷",
-      "ko": "아기 닭： 이(가) 부상",
-      "zh": "幼年鸡：受伤"
-    },
-    "mob.baby_chicken.step": {
-      "en": "Baby Chicken: chirps",
-      "ja": "子ニワトリがチュンチュン",
-      "ko": "아기 닭： 이(가) 짹짹",
-      "zh": "幼年鸡：叽叽叫"
-    },
-    "mob.baby_horse.ambient": {
-      "en": "Baby Horse: neighs",
-      "ja": "子ウマがいななく",
-      "ko": "아기 말： 이(가) 울음",
-      "zh": "幼年马：嘶鸣"
-    },
-    "mob.baby_horse.angry": {
-      "en": "Baby Horse: neighs",
-      "ja": "子ウマがいななく",
-      "ko": "아기 말： 이(가) 울음",
-      "zh": "幼年马：嘶鸣"
-    },
-    "mob.baby_horse.breathe": {
-      "en": "Baby Horse: breathes",
-      "ja": "子ウマが呼吸",
-      "ko": "아기 말： 이(가) 숨쉼",
-      "zh": "幼年马：呼吸"
-    },
-    "mob.baby_horse.death": {
-      "en": "Baby Horse: dies",
-      "ja": "子ウマが死ぬ",
-      "ko": "아기 말： 이(가) 죽음",
-      "zh": "幼年马：死亡"
-    },
-    "mob.baby_horse.eat": {
-      "en": "Baby Horse: eats",
-      "ja": "子ウマが食べる",
-      "ko": "아기 말： 이(가) 먹음",
-      "zh": "幼年马：进食"
-    },
-    "mob.baby_horse.hurt": {
-      "en": "Baby Horse: hurt",
-      "ja": "子ウマが負傷",
-      "ko": "아기 말： 이(가) 부상",
-      "zh": "幼年马：受伤"
-    },
-    "mob.baby_horse.land": {
-      "en": "Baby Horse: neighs",
-      "ja": "子ウマがいななく",
-      "ko": "아기 말： 이(가) 울음",
-      "zh": "幼年马：嘶鸣"
-    },
-    "mob.baby_nautilus.ambient": {
-      "en": "Baby Nautilus: chirps",
-      "ja": "子ナウティロスがチュンチュン",
-      "ko": "아기 나우틸러스： 이(가) 짹짹",
-      "zh": "幼年鹦鹉螺：啾啾"
-    },
-    "mob.baby_nautilus.ambient.in.water": {
-      "en": "Baby Nautilus: chirps",
-      "ja": "子ナウティロスがチュンチュン",
-      "ko": "아기 나우틸러스： 이(가) 짹짹",
-      "zh": "幼年鹦鹉螺：啾啾"
-    },
-    "mob.baby_nautilus.death": {
-      "en": "Baby Nautilus: dies",
-      "ja": "子ナウティロスが死ぬ",
-      "ko": "아기 나우틸러스： 이(가) 죽음",
-      "zh": "幼年鹦鹉螺：死亡"
-    },
-    "mob.baby_nautilus.death.in.water": {
-      "en": "Baby Nautilus: dies",
-      "ja": "子ナウティロスが死ぬ",
-      "ko": "아기 나우틸러스： 이(가) 죽음",
-      "zh": "幼年鹦鹉螺：死亡"
-    },
-    "mob.baby_nautilus.eat": {
-      "en": "Baby Nautilus: eats",
-      "ja": "子ナウティロスが食べる",
-      "ko": "아기 나우틸러스： 이(가) 먹음",
-      "zh": "幼年鹦鹉螺：进食"
-    },
-    "mob.baby_nautilus.hurt": {
-      "en": "Baby Nautilus: hurt",
-      "ja": "子ナウティロスが負傷",
-      "ko": "아기 나우틸러스： 이(가) 부상",
-      "zh": "幼年鹦鹉螺：受伤"
-    },
-    "mob.baby_nautilus.hurt.in.water": {
-      "en": "Baby Nautilus: hurt",
-      "ja": "子ナウティロスが負傷",
-      "ko": "아기 나우틸러스： 이(가) 부상",
-      "zh": "幼年鹦鹉螺：受伤"
-    },
-    "mob.baby_nautilus.swim": {
-      "en": "Baby Nautilus: swims",
-      "ja": "子ナウティロスが泳ぐ",
-      "ko": "아기 나우틸러스： 이(가) 수영",
-      "zh": "幼年鹦鹉螺：游泳"
-    },
-    "mob.baby_pig.ambient": {
-      "en": "Baby Pig: snorts",
-      "ja": "子ブタが鼻鳴らし",
-      "ko": "아기 돼지： 이(가) 콧소리",
-      "zh": "幼年猪：哼叫"
-    },
-    "mob.baby_pig.death": {
-      "en": "Baby Pig: dies",
-      "ja": "子ブタが死ぬ",
-      "ko": "아기 돼지： 이(가) 죽음",
-      "zh": "幼年猪：死亡"
-    },
-    "mob.baby_pig.eat": {
-      "en": "Baby Pig: eats",
-      "ja": "子ブタが食べる",
-      "ko": "아기 돼지： 이(가) 먹음",
-      "zh": "幼年猪：进食"
-    },
-    "mob.baby_pig.hurt": {
-      "en": "Baby Pig: hurt",
-      "ja": "子ブタが負傷",
-      "ko": "아기 돼지： 이(가) 부상",
-      "zh": "幼年猪：受伤"
-    },
-    "mob.baby_pig.step": {
-      "ko": "아기 돼지 발소리",
-      "en": "Baby Pig Step",
-      "zh": "小猪脚步",
-      "ja": "子豚の足音"
-    },
-    "mob.baby_wolf.bark": {
-      "en": "Baby Wolf: barks",
-      "ja": "子オオカミが吠える",
-      "ko": "아기 늑대： 이(가) 짖음",
-      "zh": "幼年狼：嗷~"
-    },
-    "mob.baby_wolf.death": {
-      "en": "Baby Wolf: dies",
-      "ja": "子オオカミが死ぬ",
-      "ko": "아기 늑대： 이(가) 죽음",
-      "zh": "幼年狼：死亡"
-    },
-    "mob.baby_wolf.growl": {
-      "en": "Baby Wolf: howls",
-      "ja": "子オオカミが遠吠え",
-      "ko": "아기 늑대： 이(가) 울부짖음",
-      "zh": "幼年狼：嚎叫"
-    },
-    "mob.baby_wolf.hurt": {
-      "en": "Baby Wolf: hurt",
-      "ja": "子オオカミが負傷",
-      "ko": "아기 늑대： 이(가) 부상",
-      "zh": "幼年狼：受伤"
-    },
-    "mob.baby_wolf.panting": {
-      "en": "Baby Wolf: pants",
-      "ja": "子オオカミが喘ぐ",
-      "ko": "아기 늑대： 이(가) 헐떡임",
-      "zh": "幼年狼：喘息"
-    },
-    "mob.baby_wolf.shake": {
-      "ko": "아기 늑대 몸 털기",
-      "en": "Baby Wolf Shake",
-      "zh": "小狼抖动",
-      "ja": "子オオカミが体を振る"
-    },
-    "mob.baby_wolf.step": {
-      "ko": "아기 늑대 발소리",
-      "en": "Baby Wolf Step",
-      "zh": "小狼脚步",
-      "ja": "子オオカミの足音"
-    },
-    "mob.baby_wolf.whine": {
-      "en": "Baby Wolf: whimpers",
-      "ja": "子オオカミがすすり泣く",
-      "ko": "아기 늑대： 이(가) 흐느낌",
-      "zh": "幼年狼：呜咽"
-    },
     "mob.bat.death": {
       "en": "Bat: dies",
       "ja": "コウモリが死ぬ",
@@ -15205,30 +14983,6 @@
       "ja": "ミツバチ：刺蛰",
       "ko": "벌： 刺蛰",
       "zh": "蜜蜂：刺蛰"
-    },
-    "mob.big_pig.death": {
-      "ko": "큰 돼지 사망",
-      "en": "Big Pig Death",
-      "zh": "大猪死亡",
-      "ja": "大きなブタの死"
-    },
-    "mob.big_pig.eat": {
-      "en": "Baby Pig: eats",
-      "ja": "子ブタが食べる",
-      "ko": "아기 돼지： 이(가) 먹음",
-      "zh": "幼年猪：进食"
-    },
-    "mob.big_pig.hurt": {
-      "ko": "큰 돼지 피격",
-      "en": "Big Pig Hurt",
-      "zh": "大猪受伤",
-      "ja": "大きなブタのダメージ"
-    },
-    "mob.big_pig.say": {
-      "ko": "큰 돼지 울음",
-      "en": "Big Pig Say",
-      "zh": "大猪叫声",
-      "ja": "大きなブタの鳴き声"
     },
     "mob.blaze.breathe": {
       "en": "Blaze: breathes",
@@ -17006,48 +16760,6 @@
       "ko": "마그마 큐브： 挤压（小型）",
       "zh": "岩浆怪：挤压（小型）"
     },
-    "mob.mini_pig.death": {
-      "ko": "미니 돼지 사망",
-      "en": "Mini Pig Death",
-      "zh": "迷你猪死亡",
-      "ja": "ミニブタの死"
-    },
-    "mob.mini_pig.eat": {
-      "en": "Baby Pig: eats",
-      "ja": "子ブタが食べる",
-      "ko": "아기 돼지： 이(가) 먹음",
-      "zh": "幼年猪：进食"
-    },
-    "mob.mini_pig.hurt": {
-      "ko": "미니 돼지 피격",
-      "en": "Mini Pig Hurt",
-      "zh": "迷你猪受伤",
-      "ja": "ミニブタのダメージ"
-    },
-    "mob.mini_pig.say": {
-      "ko": "미니 돼지 울음",
-      "en": "Mini Pig Say",
-      "zh": "迷你猪叫声",
-      "ja": "ミニブタの鳴き声"
-    },
-    "mob.moody_cow.death": {
-      "ko": "우울한 소 사망",
-      "en": "Moody Cow Death",
-      "zh": "情绪牛死亡",
-      "ja": "ムーディーコウの死"
-    },
-    "mob.moody_cow.hurt": {
-      "ko": "우울한 소 피격",
-      "en": "Moody Cow Hurt",
-      "zh": "情绪牛受伤",
-      "ja": "ムーディーコウのダメージ"
-    },
-    "mob.moody_cow.say": {
-      "ko": "우울한 소 울음",
-      "en": "Moody Cow Say",
-      "zh": "情绪牛叫声",
-      "ja": "ムーディーコウの鳴き声"
-    },
     "mob.mooshroom.convert": {
       "en": "Mooshroom: 转化",
       "ja": "ムーシュルーム：转化",
@@ -17065,12 +16777,6 @@
       "ja": "ムーシュルーム：被挤出谜之炖菜",
       "ko": "무슈룸： 被挤出谜之炖菜",
       "zh": "哞菇：被挤出谜之炖菜"
-    },
-    "mob.nautilus.ambient": {
-      "en": "Nautilus: clicks",
-      "ja": "ナウティロスがカチッ",
-      "ko": "나우틸러스： 이(가) 딸깍",
-      "zh": "鹦鹉螺：咔哒"
     },
     "mob.nautilus.ambient.in.water": {
       "en": "Nautilus: clicks",
@@ -17096,12 +16802,6 @@
       "ko": "나우틸러스： 이(가) 숨 고름",
       "zh": "鹦鹉螺：恢复体力"
     },
-    "mob.nautilus.death": {
-      "en": "Nautilus: dies",
-      "ja": "ナウティロスが死ぬ",
-      "ko": "나우틸러스： 이(가) 죽음",
-      "zh": "鹦鹉螺：死亡"
-    },
     "mob.nautilus.death.in.water": {
       "en": "Nautilus: dies",
       "ja": "ナウティロスが死ぬ",
@@ -17113,12 +16813,6 @@
       "ja": "ナウティロスが食べる",
       "ko": "나우틸러스： 이(가) 먹음",
       "zh": "鹦鹉螺：进食"
-    },
-    "mob.nautilus.hurt": {
-      "en": "Nautilus: hurt",
-      "ja": "ナウティロスが負傷",
-      "ko": "나우틸러스： 이(가) 부상",
-      "zh": "鹦鹉螺：受伤"
     },
     "mob.nautilus.hurt.in.water": {
       "en": "Nautilus: hurt",
@@ -17138,23 +16832,11 @@
       "ko": "나우틸러스： 이(가) 수영",
       "zh": "鹦鹉螺：游泳"
     },
-    "mob.nautilus.saddle": {
-      "en": "Nautilus: swims",
-      "ja": "ナウティロスが泳ぐ",
-      "ko": "나우틸러스： 이(가) 수영",
-      "zh": "鹦鹉螺：游泳"
-    },
     "mob.nautilus.saddle_underwater": {
       "en": "Saddle: equips",
       "ja": "鞍が装備",
       "ko": "안장： 이(가) 장착됨",
       "zh": "鞍：装备"
-    },
-    "mob.nautilus.swim": {
-      "en": "Nautilus: swims",
-      "ja": "ナウティロスが泳ぐ",
-      "ko": "나우틸러스： 이(가) 수영",
-      "zh": "鹦鹉螺：游泳"
     },
     "mob.ocelot.death": {
       "en": "Ocelot: dies",
@@ -17306,12 +16988,6 @@
       "ko": "앵무새： 이(가) 걷음",
       "zh": "鹦鹉：行走"
     },
-    "mob.pause_growth": {
-      "ko": "성장 일시정지",
-      "en": "Pause Growth",
-      "zh": "暂停生长",
-      "ja": "成長を一時停止"
-    },
     "mob.phantom.bite": {
       "en": "Phantom: bites",
       "ja": "ファントムが噛み付く",
@@ -17347,24 +17023,6 @@
       "ja": "ファントム：俯冲",
       "ko": "팬텀： 俯冲",
       "zh": "幻翼：俯冲"
-    },
-    "mob.picky_chicken.death": {
-      "ko": "까다로운 닭 사망",
-      "en": "Picky Chicken Death",
-      "zh": "挑食鸡死亡",
-      "ja": "ピッキーチキンの死"
-    },
-    "mob.picky_chicken.hurt": {
-      "ko": "까다로운 닭 피격",
-      "en": "Picky Chicken Hurt",
-      "zh": "挑食鸡受伤",
-      "ja": "ピッキーチキンのダメージ"
-    },
-    "mob.picky_chicken.say": {
-      "ko": "까다로운 닭 울음",
-      "en": "Picky Chicken Say",
-      "zh": "挑食鸡叫声",
-      "ja": "ピッキーチキンの鳴き声"
     },
     "mob.pig.boost": {
       "en": "Pig: 加速",
@@ -17641,36 +17299,6 @@
       "ja": "レイヴェンジャー：眩晕",
       "ko": "래비저： 眩晕",
       "zh": "劫掠兽：眩晕"
-    },
-    "mob.reset_growth": {
-      "ko": "성장 초기화",
-      "en": "Reset Growth",
-      "zh": "重置生长",
-      "ja": "成長をリセット"
-    },
-    "mob.royal_cat.ambient": {
-      "ko": "로열 캣 환경음",
-      "en": "Royal Cat Ambient",
-      "zh": "皇家猫环境音",
-      "ja": "ロイヤルキャットの環境音"
-    },
-    "mob.royal_cat.death": {
-      "ko": "로열 캣 사망",
-      "en": "Royal Cat Death",
-      "zh": "皇家猫死亡",
-      "ja": "ロイヤルキャットの死"
-    },
-    "mob.royal_cat.hurt": {
-      "ko": "로열 캣 피격",
-      "en": "Royal Cat Hurt",
-      "zh": "皇家猫受伤",
-      "ja": "ロイヤルキャットのダメージ"
-    },
-    "mob.royal_cat.purreow": {
-      "ko": "로열 캣 푸르르",
-      "en": "Royal Cat Purr",
-      "zh": "皇家猫呼噜声",
-      "ja": "ロイヤルキャットのプルル"
     },
     "mob.sheep.say": {
       "en": "Sheep: bleats",
@@ -19010,12 +18638,6 @@
       "ko": "문： 이(가) 부서짐",
       "zh": "门：毁坏"
     },
-    "mob.zombie_nautilus.ambient": {
-      "en": "Zombie Nautilus: buzzes",
-      "ja": "ゾンビナウティロスがブンブン",
-      "ko": "좀비 나우틸러스： 이(가) 윙윙",
-      "zh": "僵尸鹦鹉螺：嗡嗡作响"
-    },
     "mob.zombie_nautilus.ambient.in.water": {
       "en": "Zombie Nautilus: buzzes",
       "ja": "ゾンビナウティロスがブンブン",
@@ -19034,12 +18656,6 @@
       "ko": "좀비 나우틸러스： 이(가) 숨 고름",
       "zh": "僵尸鹦鹉螺：恢复体力"
     },
-    "mob.zombie_nautilus.death": {
-      "en": "Zombie Nautilus: dies",
-      "ja": "ゾンビナウティロスが死ぬ",
-      "ko": "좀비 나우틸러스： 이(가) 죽음",
-      "zh": "僵尸鹦鹉螺：死亡"
-    },
     "mob.zombie_nautilus.death.in.water": {
       "en": "Zombie Nautilus: dies",
       "ja": "ゾンビナウティロスが死ぬ",
@@ -19052,23 +18668,11 @@
       "ko": "좀비 나우틸러스： 이(가) 먹음",
       "zh": "僵尸鹦鹉螺：进食"
     },
-    "mob.zombie_nautilus.hurt": {
-      "en": "Zombie Nautilus: hurt",
-      "ja": "ゾンビナウティロスが負傷",
-      "ko": "좀비 나우틸러스： 이(가) 부상",
-      "zh": "僵尸鹦鹉螺：受伤"
-    },
     "mob.zombie_nautilus.hurt.in.water": {
       "en": "Zombie Nautilus: hurt",
       "ja": "ゾンビナウティロスが負傷",
       "ko": "좀비 나우틸러스： 이(가) 부상",
       "zh": "僵尸鹦鹉螺：受伤"
-    },
-    "mob.zombie_nautilus.swim": {
-      "en": "Zombie Nautilus: swims",
-      "ja": "ゾンビナウティロスが泳ぐ",
-      "ko": "좀비 나우틸러스： 이(가) 수영",
-      "zh": "僵尸鹦鹉螺：游泳"
     },
     "mob.zombie_villager.death": {
       "en": "Zombie Villager: dies",
@@ -19483,30 +19087,6 @@
       "en": "Note Block: plays snare drum",
       "ja": "音符ブロック： snare drumを演奏",
       "zh": "音符盒：播放小军鼓"
-    },
-    "note.trumpet": {
-      "ko": "트럼펫",
-      "en": "Trumpet",
-      "zh": "小号",
-      "ja": "トランペット"
-    },
-    "note.trumpet_exposed": {
-      "ko": "트럼펫(노출됨)",
-      "en": "Trumpet (Exposed)",
-      "zh": "小号(斑驳)",
-      "ja": "トランペット(風化)"
-    },
-    "note.trumpet_oxidized": {
-      "ko": "트럼펫(산화됨)",
-      "en": "Trumpet (Oxidized)",
-      "zh": "小号(氧化)",
-      "ja": "トランペット(酸化)"
-    },
-    "note.trumpet_weathered": {
-      "ko": "트럼펫(오래됨)",
-      "en": "Trumpet (Weathered)",
-      "zh": "小号(陈旧)",
-      "ja": "トランペット(風化済み)"
     },
     "note.witherskeleton": {
       "ko": "악보 블록： Wither Skeleton cluck 연주",
@@ -25100,12 +24680,6 @@
       "zh": "金矿石",
       "ja": "金鉱石"
     },
-    "golden_dandelion": {
-      "ko": "금민들레",
-      "en": "Golden Dandelion",
-      "zh": "金蒲公英",
-      "ja": "黄金のタンポポ"
-    },
     "golden_rail": {
       "ko": "가속 레일",
       "en": "Powered Rail",
@@ -28156,7 +27730,7 @@
     },
     "sticky_piston_arm_collision": {
       "ko": "끈끈한 피스톤 머리",
-      "en": "Sticky Piston Arm Collision",
+      "en": "Sticky Sticky Piston Arm Collision",
       "zh": "黏性活塞头",
       "ja": "粘着ピストンの頭"
     },
@@ -31532,12 +31106,6 @@
       "zh": "苍白橡树树叶粒子",
       "ja": "蒼白オーク葉粒子"
     },
-    "minecraft:pause_mob_growth": {
-      "ko": "몹 성장 일시정지 입자",
-      "en": "pause_mob_growth",
-      "zh": "暂停生物生长粒子",
-      "ja": "モブ成長停止粒子"
-    },
     "minecraft:phantom_trail_particle": {
       "ko": "팬텀 자국 입자",
       "en": "phantom_trail_particle",
@@ -31609,12 +31177,6 @@
       "en": "redstone_wire_dust_particle",
       "zh": "红石线尘埃粒子",
       "ja": "レッドストーン配線塵粒子"
-    },
-    "minecraft:reset_mob_growth": {
-      "ko": "몹 성장 초기화 입자",
-      "en": "reset_mob_growth",
-      "zh": "重置生物生长粒子",
-      "ja": "モブ成長リセット粒子"
     },
     "minecraft:rising_border_dust_particle": {
       "ko": "상승 경계 먼지 입자",
@@ -38410,12 +37972,6 @@
       "zh": "<工作台>棕色蘑菇+红色蘑菇+碗~>蘑菇煲",
       "en": "[Crafting Table] Brown Mushroom + Red Mushroom + Bowl ~> Mushroom Stew"
     },
-    "minecraft:name_tag": {
-      "ko": "[제작대] 종이 + 철 조각 -> 이름표",
-      "ja": "[作業台] 紙 + 鉄塊 -> 名札",
-      "zh": "<工作台>纸+金属粒->命名牌",
-      "en": "[Crafting Table] Paper + Iron Nugget -> Name Tag"
-    },
     "minecraft:nether_brick": {
       "ko": "[제작대] 네더 벽돌*4 -> 네더 벽돌",
       "ja": "[作業台] ネザーレンガ*4 -> ネザーレンガ",
@@ -40018,29 +39574,11 @@
       "ja": "[ストーンカッター] ブラックストーン → 模様入り磨かれたブラックストーン",
       "ko": "[돌 절단기] 흑암 → 조각된 윤난 흑암"
     },
-    "minecraft:stonecutter_chiseled_stone_bricks_from_cobblestone": {
-      "zh": "<切石机>圆石~>雕纹石砖",
-      "en": "[Stonecutter] Cobblestone → Chiseled Stone Bricks",
-      "ja": "[ストーンカッター] 丸石 → 模様入り石レンガ",
-      "ko": "[돌 절단기] 조약돌 → 조각된 석재 벽돌"
-    },
     "minecraft:stonecutter_cobbledouble_stone_slab": {
       "zh": "<切石机>圆石~>圆石台阶*2",
       "en": "[Stonecutter] Cobblestone → Cobblestone Slab×2",
       "ja": "[ストーンカッター] 丸石 → 丸石のハーフブロック×2",
       "ko": "[돌 절단기] 조약돌 → 조약돌 반 블록×2"
-    },
-    "minecraft:stonecutter_cobblestone_from_stone": {
-      "zh": "<切石机>石头~>圆石",
-      "en": "[Stonecutter] Stone → Cobblestone",
-      "ja": "[ストーンカッター] 石 → 丸石",
-      "ko": "[돌 절단기] 돌 → 조약돌"
-    },
-    "minecraft:stonecutter_cobblestone_slab_from_stone": {
-      "zh": "<切石机>石头~>圆石台阶*2",
-      "en": "[Stonecutter] Stone → Cobblestone Slab×2",
-      "ja": "[ストーンカッター] 石 → 丸石のハーフブロック×2",
-      "ko": "[돌 절단기] 돌 → 조약돌 반 블록×2"
     },
     "minecraft:stonecutter_cobblestone_stairs": {
       "zh": "<切石机>圆石~>圆石楼梯",
@@ -40048,23 +39586,11 @@
       "ja": "[ストーンカッター] 丸石 → 丸石の階段",
       "ko": "[돌 절단기] 조약돌 → 조약돌 계단"
     },
-    "minecraft:stonecutter_cobblestone_stairs_from_stone": {
-      "zh": "<切石机>石头~>圆石楼梯",
-      "en": "[Stonecutter] Stone → Cobblestone Stairs",
-      "ja": "[ストーンカッター] 石 → 丸石の階段",
-      "ko": "[돌 절단기] 돌 → 조약돌 계단"
-    },
     "minecraft:stonecutter_cobblestone_wall": {
       "zh": "<切石机>圆石~>圆石墙",
       "en": "[Stonecutter] Cobblestone → Cobblestone Wall",
       "ja": "[ストーンカッター] 丸石 → 丸石の壁",
       "ko": "[돌 절단기] 조약돌 → 조약돌 담장"
-    },
-    "minecraft:stonecutter_cobblestone_wall_from_stone": {
-      "zh": "<切石机>石头~>圆石墙",
-      "en": "[Stonecutter] Stone → Cobblestone Wall",
-      "ja": "[ストーンカッター] 石 → 丸石の壁",
-      "ko": "[돌 절단기] 돌 → 조약돌 담장"
     },
     "minecraft:stonecutter_copper_block_to_chiseled_copper": {
       "zh": "<切石机>铜块~>雕纹铜块*4",
@@ -40821,30 +40347,6 @@
       "en": "[Stonecutter] Polished Blackstone → Polished Blackstone Stairs",
       "ja": "[ストーンカッター] 磨かれたブラックストーン → 磨かれたブラックストーンの階段",
       "ko": "[돌 절단기] 윤난 흑암 → 윤난 흑암 계단"
-    },
-    "minecraft:stonecutter_stone_brick_slab_from_cobblestone": {
-      "zh": "<切石机>圆石~>石砖台阶*2",
-      "en": "[Stonecutter] Cobblestone → Stone Brick Slab×2",
-      "ja": "[ストーンカッター] 丸石 → 石レンガのハーフブロック×2",
-      "ko": "[돌 절단기] 조약돌 → 석재 벽돌 반 블록×2"
-    },
-    "minecraft:stonecutter_stone_brick_stairs_from_cobblestone": {
-      "zh": "<切石机>圆石~>石砖楼梯",
-      "en": "[Stonecutter] Cobblestone → Stone Brick Stairs",
-      "ja": "[ストーンカッター] 丸石 → 石レンガの階段",
-      "ko": "[돌 절단기] 조약돌 → 석재 벽돌 계단"
-    },
-    "minecraft:stonecutter_stone_brick_wall_from_cobblestone": {
-      "zh": "<切石机>圆石~>石砖墙",
-      "en": "[Stonecutter] Cobblestone → Stone Brick Wall",
-      "ja": "[ストーンカッター] 丸石 → 石レンガの壁",
-      "ko": "[돌 절단기] 조약돌 → 석재 벽돌 담장"
-    },
-    "minecraft:stonecutter_stone_bricks_from_cobblestone": {
-      "zh": "<切石机>圆石~>石砖",
-      "en": "[Stonecutter] Cobblestone → Stone Bricks",
-      "ja": "[ストーンカッター] 丸石 → 石レンガ",
-      "ko": "[돌 절단기] 조약돌 → 석재 벽돌"
     },
     "minecraft:stonecutter_stone_stairs": {
       "zh": "<切石机>石头~>石头楼梯",
@@ -46023,12 +45525,6 @@
       "ja": "[作業台] 青緑の羊毛 + 薄灰色の染料 ~> 薄灰色の羊毛",
       "ko": "[제작대] 청록색 양털 + 회백색 염료 ~> 회백색 양털",
       "zh": "<工作台>青色羊毛+淡灰色染料~>淡灰色羊毛"
-    },
-    "minecraft:golden_dandelion": {
-      "ko": "[제작대] 민들레 + 금 조각*8 -> 금민들레",
-      "ja": "[作業台] タンポポ + 金塊*8 -> 黄金のタンポポ",
-      "zh": "<工作台>蒲公英+金粒*8->金蒲公英",
-      "en": "[Crafting Table] Dandelion + Gold Nugget*8 -> Golden Dandelion"
     }
   }
 }
