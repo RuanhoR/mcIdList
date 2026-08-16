@@ -8,10 +8,11 @@
    Go [My Tool Website](https://ruanhor.dpdns.org/tool) and click `MCID List`(The website support i18n, so also call `MCID 列表` or `MCID リスト`) and use the tool
 
 2. Use on your app
-   Have two methods
+   Have three methods
 
 - Use `./data` assets(type see `DataType`)
 - Use the API in ./docs/api.md
+- Download from [Be](https://npmjs.com/package/@ojaang/be-vanilla-iddata) or `je (No data)`
 
 ## DataType
 

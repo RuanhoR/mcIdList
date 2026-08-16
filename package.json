@@ -1,0 +1,53 @@
+{
+  "name": "@ojaang/be-vanilla-iddata",
+  "version": "1.21.0",
+  "description": "Minecraft Vanilla Id Data On NPM",
+  "main": "./index.js",
+  "repository": {
+    "directory": "/",
+    "type": "git",
+    "url": "https://github.com/RuanhoR/mcIdList"
+  },
+  "homepage": "https://github.com/RuanhoR/mcIdList",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "scripts": {
+    "push": "node ./scripts/push.js \"$@\" && pnpm publish --tag latest"
+  },
+  "files": [
+    "./data/be_1.21.0.json",
+    "index.js"
+  ],
+  "exports": {
+    ".": {
+      "require": "./index.js",
+      "import": "./index.js",
+      "types": "./index.d.ts"
+    },
+    "./package.json": {
+      "require": "./package.json"
+    }
+  },
+  "keywords": [
+    "Minecraft",
+    "Dev",
+    "Mojang",
+    "Bedrock",
+    "typescript",
+    "data",
+    "vanilla"
+  ],
+  "author": {
+    "name": "ruanhor",
+    "url": "https://github.com/RuanhoR/",
+    "email": "zcvb182a@163.com"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "license": "MIT",
+  "packageManager": "pnpm@11.10.0",
+  "type": "commonjs"
+}
