@@ -1,2 +1,2 @@
-import e = require("./data/be_1.26.40.json");
+import e = require("./data/je_1.26.2.json");
 export = e;

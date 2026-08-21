@@ -12,7 +12,7 @@
 
 - Use `./data` assets(type see `DataType`)
 - Use the API in ./docs/api.md
-- Download from [Be](https://npmjs.com/package/@ojaang/be-vanilla-iddata) or `je (No data)`
+- Download from [Be](https://npmjs.com/package/@ojaang/be-vanilla-iddata) or [Je](https://npmjs.com/package/@ojaang/be-vanilla-iddata)
 
 ## DataType
 

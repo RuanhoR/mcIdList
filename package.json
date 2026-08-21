@@ -1,6 +1,6 @@
 {
-  "name": "@ojaang/be-vanilla-iddata",
-  "version": "1.26.40-rc.1",
+  "name": "@ojaang/je-vanilla-iddata",
+  "version": "1.26.2",
   "description": "Minecraft Vanilla Id Data On NPM",
   "main": "./index.js",
   "repository": {
@@ -16,7 +16,7 @@
     "push": "node ./scripts/push.js \"$@\" && pnpm publish --tag latest"
   },
   "files": [
-    "./data/be_1.26.40.json",
+    "./data/je_1.26.2.json",
     "index.js",
     "index.d.ts"
   ],
