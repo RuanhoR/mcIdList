@@ -1,0 +1,110 @@
+{
+  "minecraft:ancient_city": {
+    "en": "Ancient City",
+    "ja": "古代都市",
+    "ko": "고대 도시",
+    "zh": "远古城市"
+  },
+  "minecraft:bastion_remnant": {
+    "en": "Bastion Remnant",
+    "ja": "バスティオン遺跡",
+    "ko": "바스티온 잔재",
+    "zh": "堡垒遗迹"
+  },
+  "minecraft:buried_treasure": {
+    "en": "Buried Treasure",
+    "ja": "埋まった宝",
+    "ko": "묻힌 보물",
+    "zh": "埋藏的宝藏"
+  },
+  "minecraft:end_city": {
+    "en": "End City",
+    "ja": "エンドシティ",
+    "ko": "엔드 시티",
+    "zh": "末地城"
+  },
+  "minecraft:fortress": {
+    "en": "Nether Fortress",
+    "ja": "ネザー要塞",
+    "ko": "네더 요새",
+    "zh": "下界要塞"
+  },
+  "minecraft:mansion": {
+    "en": "Woodland Mansion",
+    "ja": "森の洋館",
+    "ko": "숲의 저택",
+    "zh": "林地府邸"
+  },
+  "minecraft:mineshaft": {
+    "en": "Mineshaft",
+    "ja": "坑道",
+    "ko": "광산",
+    "zh": "废弃矿井"
+  },
+  "minecraft:monument": {
+    "en": "Ocean Monument",
+    "ja": "海底神殿",
+    "ko": "해저 신전",
+    "zh": "海底神殿"
+  },
+  "minecraft:pillager_outpost": {
+    "en": "Pillager Outpost",
+    "ja": "略奪者の前哨基地",
+    "ko": "약탈자 전초기지",
+    "zh": "掠夺者前哨站"
+  },
+  "minecraft:ruined_portal": {
+    "en": "Ruined Portal",
+    "ja": "崩れたポータル",
+    "ko": "폐허 포탈",
+    "zh": "废弃传送门"
+  },
+  "minecraft:ruins": {
+    "en": "Ocean Ruins",
+    "ja": "海底遺跡",
+    "ko": "해저 유적",
+    "zh": "海底遗迹"
+  },
+  "minecraft:shipwreck": {
+    "en": "Shipwreck",
+    "ja": "難破船",
+    "ko": "난파선",
+    "zh": "沉船"
+  },
+  "minecraft:stronghold": {
+    "en": "Stronghold",
+    "ja": "要塞",
+    "ko": "요새",
+    "zh": "要塞"
+  },
+  "minecraft:temple": {
+    "en": "Desert Pyramid",
+    "ja": "砂漠のピラミッド",
+    "ko": "사막 피라미드",
+    "zh": "沙漠神殿"
+  },
+  "minecraft:trail_ruins": {
+    "en": "Trail Ruins",
+    "ja": "遺跡の道",
+    "ko": "고대 유적",
+    "zh": "古迹废墟"
+  },
+  "minecraft:trial_chambers": {
+    "en": "Trial Chambers",
+    "ja": "試練の間",
+    "ko": "시련의 방",
+    "zh": "试炼密室"
+  },
+  "minecraft:village": {
+    "en": "Village",
+    "ja": "村",
+    "ko": "마을",
+    "zh": "村庄"
+  },
+  "minecraft:abandoned_camp": {
+    "en": "Abandoned Camp",
+    "ja": "放棄されたキャンプ",
+    "ko": "버려진 야영지",
+    "zh": "废弃营地"
+  }
+}

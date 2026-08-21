@@ -1,0 +1,398 @@
+{
+  "the_void": {
+    "en": "The Void",
+    "ja": "虚空",
+    "ko": "공허",
+    "zh": "虚空"
+  },
+  "plains": {
+    "en": "Plains",
+    "ja": "平原",
+    "ko": "평원",
+    "zh": "平原"
+  },
+  "sunflower_plains": {
+    "en": "Sunflower Plains",
+    "ja": "ひまわり平原",
+    "ko": "해바라기 평원",
+    "zh": "向日葵平原"
+  },
+  "snowy_plains": {
+    "en": "Snowy Plains",
+    "ja": "氷原",
+    "ko": "얼음 평원",
+    "zh": "雪原"
+  },
+  "ice_spikes": {
+    "en": "Ice Spikes",
+    "ja": "氷の針",
+    "ko": "얼음 송곳 평원",
+    "zh": "冰刺之地"
+  },
+  "desert": {
+    "en": "Desert",
+    "ja": "砂漠",
+    "ko": "사막",
+    "zh": "沙漠"
+  },
+  "swamp": {
+    "en": "Swamp",
+    "ja": "沼沢",
+    "ko": "늪지",
+    "zh": "沼泽"
+  },
+  "mangrove_swamp": {
+    "en": "Mangrove Swamp",
+    "ja": "マングローブの沼沢",
+    "ko": "맹그로브 늪",
+    "zh": "红树林沼泽"
+  },
+  "forest": {
+    "en": "Forest",
+    "ja": "森",
+    "ko": "숲",
+    "zh": "森林"
+  },
+  "flower_forest": {
+    "en": "Flower Forest",
+    "ja": "花の森",
+    "ko": "꽃이 피는 숲",
+    "zh": "繁花森林"
+  },
+  "birch_forest": {
+    "en": "Birch Forest",
+    "ja": "白樺の森",
+    "ko": "자작나무 숲",
+    "zh": "桦木森林"
+  },
+  "dark_forest": {
+    "en": "Dark Forest",
+    "ja": "暗い森",
+    "ko": "둥근 지붕 숲",
+    "zh": "黑森林"
+  },
+  "pale_garden": {
+    "en": "Pale Garden",
+    "ja": "蒼白の庭",
+    "ko": "창백한 정원",
+    "zh": "苍白之园"
+  },
+  "old_growth_birch_forest": {
+    "en": "Old Growth Birch Forest",
+    "ja": "老齢白樺の森",
+    "ko": "원시 자작나무 숲",
+    "zh": "原始桦木森林"
+  },
+  "old_growth_pine_taiga": {
+    "en": "Old Growth Pine Taiga",
+    "ja": "老齢松のタイガ",
+    "ko": "원시 소나무 타이가",
+    "zh": "原始松木针叶林"
+  },
+  "old_growth_spruce_taiga": {
+    "en": "Old Growth Spruce Taiga",
+    "ja": "老齢トウヒのタイガ",
+    "ko": "원시 가문비나무 타이가",
+    "zh": "原始云杉针叶林"
+  },
+  "taiga": {
+    "en": "Taiga",
+    "ja": "タイガ",
+    "ko": "타이가",
+    "zh": "针叶林"
+  },
+  "snowy_taiga": {
+    "en": "Snowy Taiga",
+    "ja": "雪原のタイガ",
+    "ko": "차가운 타이가",
+    "zh": "积雪针叶林"
+  },
+  "savanna": {
+    "en": "Savanna",
+    "ja": "サバンナ",
+    "ko": "사바나",
+    "zh": "热带草原"
+  },
+  "savanna_plateau": {
+    "en": "Savanna Plateau",
+    "ja": "サバンナの台地",
+    "ko": "사바나 고원",
+    "zh": "热带高原"
+  },
+  "windswept_hills": {
+    "en": "Windswept Hills",
+    "ja": "風衝の丘",
+    "ko": "극한의 언덕",
+    "zh": "风袭丘陵"
+  },
+  "windswept_gravelly_hills": {
+    "en": "Windswept Gravelly Hills",
+    "ja": "風衝の砂利の丘",
+    "ko": "자갈 극한의 언덕",
+    "zh": "风袭沙砾丘陵"
+  },
+  "windswept_forest": {
+    "en": "Windswept Forest",
+    "ja": "風衝の森",
+    "ko": "나무 있는 극한의 언덕",
+    "zh": "风袭森林"
+  },
+  "windswept_savanna": {
+    "en": "Windswept Savanna",
+    "ja": "風衝のサバンナ",
+    "ko": "풍화된 사바나",
+    "zh": "风袭热带草原"
+  },
+  "jungle": {
+    "en": "Jungle",
+    "ja": "ジャングル",
+    "ko": "정글",
+    "zh": "丛林"
+  },
+  "sparse_jungle": {
+    "en": "Sparse Jungle",
+    "ja": "変種のジャングル",
+    "ko": "정글 변종",
+    "zh": "丛林变种"
+  },
+  "bamboo_jungle": {
+    "en": "Bamboo Jungle",
+    "ja": "竹林",
+    "ko": "대나무 정글",
+    "zh": "竹林"
+  },
+  "badlands": {
+    "en": "Badlands",
+    "ja": "バッドランド",
+    "ko": "메사",
+    "zh": "恶地"
+  },
+  "eroded_badlands": {
+    "en": "Eroded Badlands",
+    "ja": "浸食されたバッドランド",
+    "ko": "침식된 메사",
+    "zh": "风蚀恶地"
+  },
+  "wooded_badlands": {
+    "en": "Wooded Badlands",
+    "ja": "樹木のあるバッドランドの台地",
+    "ko": "울창한 메사 고원",
+    "zh": "繁茂的恶地高原"
+  },
+  "meadow": {
+    "en": "Meadow",
+    "ja": "草原",
+    "ko": "초원",
+    "zh": "草甸"
+  },
+  "cherry_grove": {
+    "en": "Cherry Grove",
+    "ja": "桜の Grove",
+    "ko": "벚꽃 나무 숲",
+    "zh": "樱花树林"
+  },
+  "grove": {
+    "en": "Grove",
+    "ja": "雪原の森",
+    "ko": "눈 덮인 숲",
+    "zh": "雪林"
+  },
+  "snowy_slopes": {
+    "en": "Snowy Slopes",
+    "ja": "雪の斜面",
+    "ko": "눈 덮인 비탈",
+    "zh": "积雪山坡"
+  },
+  "frozen_peaks": {
+    "en": "Frozen Peaks",
+    "ja": "凍結した尖塔",
+    "ko": "얼어붙은 봉우리",
+    "zh": "冰封山峰"
+  },
+  "jagged_peaks": {
+    "en": "Jagged Peaks",
+    "ja": "ギザギザの尖塔",
+    "ko": "뾰족한 봉우리",
+    "zh": "尖峭山峰"
+  },
+  "stony_peaks": {
+    "en": "Stony Peaks",
+    "ja": "岩だらけの尖塔",
+    "ko": "알뜨럼 봉우리",
+    "zh": "裸岩山峰"
+  },
+  "river": {
+    "en": "River",
+    "ja": "川",
+    "ko": "강",
+    "zh": "河流"
+  },
+  "frozen_river": {
+    "en": "Frozen River",
+    "ja": "凍った川",
+    "ko": "얼어붙은 강",
+    "zh": "冻河"
+  },
+  "beach": {
+    "en": "Beach",
+    "ja": "砂浜",
+    "ko": "해변",
+    "zh": "沙滩"
+  },
+  "snowy_beach": {
+    "en": "Snowy Beach",
+    "ja": "雪の降る砂浜",
+    "ko": "차가운 해변",
+    "zh": "积雪沙滩"
+  },
+  "stony_shore": {
+    "en": "Stony Shore",
+    "ja": "石の海岸",
+    "ko": "돌 해안",
+    "zh": "石岸"
+  },
+  "warm_ocean": {
+    "en": "Warm Ocean",
+    "ja": "暖かい海",
+    "ko": "따뜻한 바다",
+    "zh": "暖水海洋"
+  },
+  "lukewarm_ocean": {
+    "en": "Lukewarm Ocean",
+    "ja": "ぬるい海",
+    "ko": "미지근한 바다",
+    "zh": "温水海洋"
+  },
+  "deep_lukewarm_ocean": {
+    "en": "Deep Lukewarm Ocean",
+    "ja": "深いぬるい海",
+    "ko": "깊은 미지근한 바다",
+    "zh": "温水深海"
+  },
+  "ocean": {
+    "en": "Ocean",
+    "ja": "海",
+    "ko": "바다",
+    "zh": "海洋"
+  },
+  "deep_ocean": {
+    "en": "Deep Ocean",
+    "ja": "深海",
+    "ko": "깊은 바다",
+    "zh": "深海"
+  },
+  "cold_ocean": {
+    "en": "Cold Ocean",
+    "ja": "冷たい海",
+    "ko": "차가운 바다",
+    "zh": "冷水海洋"
+  },
+  "deep_cold_ocean": {
+    "en": "Deep Cold Ocean",
+    "ja": "深い冷たい海",
+    "ko": "깊은 차가운 바다",
+    "zh": "冷水深海"
+  },
+  "frozen_ocean": {
+    "en": "Frozen Ocean",
+    "ja": "凍った海",
+    "ko": "얼어붙은 바다",
+    "zh": "冻洋"
+  },
+  "deep_frozen_ocean": {
+    "en": "Deep Frozen Ocean",
+    "ja": "深い凍った海",
+    "ko": "깊은 얼어붙은 바다",
+    "zh": "冰冻深海"
+  },
+  "mushroom_fields": {
+    "en": "Mushroom Fields",
+    "ja": "キノコの島",
+    "ko": "버섯 섬",
+    "zh": "蘑菇岛"
+  },
+  "dripstone_caves": {
+    "en": "Dripstone Caves",
+    "ja": "ドリップストーンの洞窟",
+    "ko": "종유석 동굴",
+    "zh": "溶洞"
+  },
+  "lush_caves": {
+    "en": "Lush Caves",
+    "ja": "繁茂した洞窟",
+    "ko": "울창한 동굴",
+    "zh": "繁茂洞穴"
+  },
+  "deep_dark": {
+    "en": "Deep Dark",
+    "ja": "ディープダーク",
+    "ko": "심연",
+    "zh": "深暗之域"
+  },
+  "sulfur_caves": {
+    "en": "Sulfur Caves",
+    "ja": "硫黄の洞窟",
+    "ko": "유황 동굴",
+    "zh": "硫黄洞穴"
+  },
+  "nether_wastes": {
+    "en": "Nether Wastes",
+    "ja": "ネザーの荒れ地",
+    "ko": "지옥",
+    "zh": "下界荒地"
+  },
+  "warped_forest": {
+    "en": "Warped Forest",
+    "ja": "歪んだ森",
+    "ko": "뒤틀린 숲",
+    "zh": "诡异森林"
+  },
+  "crimson_forest": {
+    "en": "Crimson Forest",
+    "ja": "真紅の森",
+    "ko": "진홍빛 숲",
+    "zh": "绯红森林"
+  },
+  "soul_sand_valley": {
+    "en": "Soul Sand Valley",
+    "ja": "ソウルサンドの谷",
+    "ko": "영혼 모래 계곡",
+    "zh": "灵魂沙峡谷"
+  },
+  "basalt_deltas": {
+    "en": "Basalt Deltas",
+    "ja": "玄武岩三角洲",
+    "ko": "현무암 삼각주",
+    "zh": "玄武岩三角洲"
+  },
+  "the_end": {
+    "en": "The End",
+    "ja": "ジ・エンド",
+    "ko": "엔드",
+    "zh": "末地"
+  },
+  "end_highlands": {
+    "en": "End Highlands",
+    "ja": "エンドハイランド",
+    "ko": "엔드 고지",
+    "zh": "末地高地"
+  },
+  "end_midlands": {
+    "en": "End Midlands",
+    "ja": "エンドミッドランド",
+    "ko": "엔드 중지",
+    "zh": "末地中部"
+  },
+  "small_end_islands": {
+    "en": "Small End Islands",
+    "ja": "小さなエンド島",
+    "ko": "작은 엔드 섬",
+    "zh": "末地小型岛屿"
+  },
+  "end_barrens": {
+    "en": "End Barrens",
+    "ja": "エンド荒野",
+    "ko": "엔드 황야",
+    "zh": "末地荒芜之地"
+  }
+}

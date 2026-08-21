@@ -1,0 +1,800 @@
+{
+  "allay": {
+    "en": "Allay",
+    "ja": "アレイ",
+    "ko": "앨레이",
+    "zh": "悦灵"
+  },
+  "area_effect_cloud": {
+    "en": "Area Effect Cloud",
+    "ja": "領域効果雲（召喚不可）",
+    "ko": "지역 효과 구름 (소환 불가)",
+    "zh": "区域效果云（不可召唤）"
+  },
+  "armor_stand": {
+    "en": "Armor Stand",
+    "ja": "防具立て",
+    "ko": "갑옷 거치대",
+    "zh": "盔甲架"
+  },
+  "arrow": {
+    "en": "Arrow",
+    "ja": "矢",
+    "ko": "화살",
+    "zh": "箭"
+  },
+  "axolotl": {
+    "en": "Axolotl",
+    "ja": "アクソロトル",
+    "ko": "악솔로틀",
+    "zh": "美西螈"
+  },
+  "bat": {
+    "en": "Bat",
+    "ja": "コウモリ",
+    "ko": "박쥐",
+    "zh": "蝙蝠"
+  },
+  "bee": {
+    "en": "Bee",
+    "ja": "ミツバチ",
+    "ko": "벌",
+    "zh": "蜜蜂"
+  },
+  "blaze": {
+    "en": "Blaze",
+    "ja": "ブレイズ",
+    "ko": "블레이즈",
+    "zh": "烈焰人"
+  },
+  "breeze": {
+    "en": "Breeze",
+    "ja": "ブリーズ",
+    "ko": "브리즈",
+    "zh": "旋风人"
+  },
+  "bogged": {
+    "en": "Bogged",
+    "ja": "ボグド",
+    "ko": "보기드",
+    "zh": "沼骸"
+  },
+  "camel": {
+    "en": "Camel",
+    "ja": "ラクダ",
+    "ko": "낙타",
+    "zh": "骆驼"
+  },
+  "camel_husk": {
+    "en": "Camel Husk",
+    "ja": "ラクダの殻",
+    "ko": "낙타 껍질",
+    "zh": "骆驼尸壳"
+  },
+  "cat": {
+    "en": "Cat",
+    "ja": "ネコ",
+    "ko": "고양이",
+    "zh": "猫"
+  },
+  "cave_spider": {
+    "en": "Cave Spider",
+    "ja": "洞窟グモ",
+    "ko": "동굴 거미",
+    "zh": "洞穴蜘蛛"
+  },
+  "chicken": {
+    "en": "Chicken",
+    "ja": "ニワトリ",
+    "ko": "닭",
+    "zh": "鸡"
+  },
+  "cod": {
+    "en": "Cod",
+    "ja": "タラ",
+    "ko": "생선",
+    "zh": "鳕鱼"
+  },
+  "copper_golem": {
+    "en": "Copper Golem",
+    "ja": "銅のゴーレム",
+    "ko": "구리 골렘",
+    "zh": "铜傀儡"
+  },
+  "cow": {
+    "en": "Cow",
+    "ja": "ウシ",
+    "ko": "소",
+    "zh": "牛"
+  },
+  "creaking": {
+    "en": "Creaking",
+    "ja": "クリーキング",
+    "ko": "크리킹",
+    "zh": "嘎枝"
+  },
+  "creeper": {
+    "en": "Creeper",
+    "ja": "クリーパー",
+    "ko": "크리퍼",
+    "zh": "苦力怕"
+  },
+  "dolphin": {
+    "en": "Dolphin",
+    "ja": "イルカ",
+    "ko": "돌고래",
+    "zh": "海豚"
+  },
+  "donkey": {
+    "en": "Donkey",
+    "ja": "ロバ",
+    "ko": "당나귀",
+    "zh": "驴"
+  },
+  "dragon_fireball": {
+    "en": "Dragon Fireball",
+    "ja": "エンダードラゴンの火球（召喚不可）",
+    "ko": "엔더 드래곤 화염구 (소환 불가)",
+    "zh": "末影龙火球（不可召唤）"
+  },
+  "drowned": {
+    "en": "Drowned",
+    "ja": "溺れたゾンビ",
+    "ko": "드라운드",
+    "zh": "溺尸"
+  },
+  "egg": {
+    "en": "Egg",
+    "ja": "卵",
+    "ko": "달걀",
+    "zh": "鸡蛋"
+  },
+  "elder_guardian": {
+    "en": "Elder Guardian",
+    "ja": "エルダーガーディアン",
+    "ko": "장로 가디언",
+    "zh": "远古守卫者"
+  },
+  "ender_crystal": {
+    "en": "Ender Crystal",
+    "ja": "エンドクリスタル",
+    "ko": "엔드 크리스탈",
+    "zh": "末地水晶"
+  },
+  "ender_dragon": {
+    "en": "Ender Dragon",
+    "ja": "エンダードラゴン",
+    "ko": "엔더 드래곤",
+    "zh": "末影龙"
+  },
+  "ender_pearl": {
+    "en": "Ender Pearl",
+    "ja": "エンダーパール（召喚不可）",
+    "ko": "엔더 진주 (소환 불가)",
+    "zh": "末影珍珠（不可召唤）"
+  },
+  "enderman": {
+    "en": "Enderman",
+    "ja": "エンダーマン",
+    "ko": "엔더맨",
+    "zh": "末影人"
+  },
+  "endermite": {
+    "en": "Endermite",
+    "ja": "エンダーマイト",
+    "ko": "엔더마이트",
+    "zh": "末影螨"
+  },
+  "evoker": {
+    "en": "Evoker",
+    "ja": "召喚系イルージョナー",
+    "ko": "에보케이션 일러저",
+    "zh": "唤魔者"
+  },
+  "evoker_fangs": {
+    "en": "Evoker Fangs",
+    "ja": "召喚者の牙",
+    "ko": "에보케이션 엄니",
+    "zh": "唤魔者尖牙"
+  },
+  "experience_bottle": {
+    "en": "Experience Bottle",
+    "ja": "経験値ボトル",
+    "ko": "인챈트 병",
+    "zh": "附魔之瓶"
+  },
+  "experience_orb": {
+    "en": "Experience Orb",
+    "ja": "経験値オーブ",
+    "ko": "경험치 구슬",
+    "zh": "经验球"
+  },
+  "eye_of_ender": {
+    "en": "Eye of Ender",
+    "ja": "エンダーの目（召喚不可）",
+    "ko": "엔더의 눈 (소환 불가)",
+    "zh": "末影之眼（不可召唤）"
+  },
+  "falling_block": {
+    "en": "Falling Block",
+    "ja": "落下するブロック（召喚不可）",
+    "ko": "낙하하는 블록 (소환 불가)",
+    "zh": "下落的方块（不可召唤）"
+  },
+  "fireball": {
+    "en": "Fireball",
+    "ja": "火球（召喚不可）",
+    "ko": "화염구 (소환 불가)",
+    "zh": "火球（不可召唤）"
+  },
+  "firework_rocket": {
+    "en": "Firework Rocket",
+    "ja": "花火ロケット",
+    "ko": "폭죽 로켓",
+    "zh": "烟花火箭"
+  },
+  "fishing_bobber": {
+    "en": "Fishing Bobber",
+    "ja": "釣り針（召喚不可）",
+    "ko": "낚싯줄 낚시찌 (소환 불가)",
+    "zh": "浮漂（不可召唤）"
+  },
+  "fox": {
+    "en": "Fox",
+    "ja": "キツネ",
+    "ko": "여우",
+    "zh": "狐狸"
+  },
+  "frog": {
+    "en": "Frog",
+    "ja": "カエル",
+    "ko": "개구리",
+    "zh": "青蛙"
+  },
+  "furnace_minecart": {
+    "en": "Furnace Minecart",
+    "ja": "Furnace Minecart",
+    "ko": "Furnace Minecart",
+    "zh": "Furnace Minecart"
+  },
+  "ghast": {
+    "en": "Ghast",
+    "ja": "ガスト",
+    "ko": "가스트",
+    "zh": "恶魂"
+  },
+  "happy_ghast": {
+    "en": "Happy Ghast",
+    "ja": "ハッピーガスト",
+    "ko": "해피 가스트",
+    "zh": "快乐恶魂"
+  },
+  "giant": {
+    "en": "Giant",
+    "ja": "ジャイアント",
+    "ko": "자이언트",
+    "zh": "巨人"
+  },
+  "glow_item_frame": {
+    "en": "Glow Item Frame",
+    "ja": "発光額縁",
+    "ko": "발광 액자",
+    "zh": "发光物品展示框"
+  },
+  "glow_squid": {
+    "en": "Glow Squid",
+    "ja": "発光イカ",
+    "ko": "발광 오징어",
+    "zh": "发光鱿鱼"
+  },
+  "goat": {
+    "en": "Goat",
+    "ja": "ヤギ",
+    "ko": "염소",
+    "zh": "山羊"
+  },
+  "guardian": {
+    "en": "Guardian",
+    "ja": "ガーディアン",
+    "ko": "가디언",
+    "zh": "守卫者"
+  },
+  "hoglin": {
+    "en": "Hoglin",
+    "ja": "ホグリン",
+    "ko": "호글린",
+    "zh": "疣猪兽"
+  },
+  "hopper_minecart": {
+    "en": "Hopper Minecart",
+    "ja": "ホッパー鉱車",
+    "ko": "깔때기 광산 수레",
+    "zh": "漏斗矿车"
+  },
+  "horse": {
+    "en": "Horse",
+    "ja": "ウマ",
+    "ko": "말",
+    "zh": "马"
+  },
+  "husk": {
+    "en": "Husk",
+    "ja": "ハスク",
+    "ko": "허스크",
+    "zh": "尸壳"
+  },
+  "illusioner": {
+    "en": "Illusioner",
+    "ja": "イリュージョナー",
+    "ko": "일루저너",
+    "zh": "幻术师"
+  },
+  "interaction": {
+    "en": "Interaction",
+    "ja": "インタラクション",
+    "ko": "인터랙션",
+    "zh": "交互实体"
+  },
+  "iron_golem": {
+    "en": "Iron Golem",
+    "ja": "鉄のゴーレム",
+    "ko": "철 골렘",
+    "zh": "铁傀儡"
+  },
+  "item": {
+    "en": "Item",
+    "ja": "アイテム（召喚不可）",
+    "ko": "아이템 (소환 불가)",
+    "zh": "物品（不可召唤）"
+  },
+  "item_display": {
+    "en": "Item Display",
+    "ja": "アイテムディスプレイ",
+    "ko": "아이템 디스플레이",
+    "zh": "物品展示"
+  },
+  "item_frame": {
+    "en": "Item Frame",
+    "ja": "Item Frame",
+    "ko": "Item Frame",
+    "zh": "Item Frame"
+  },
+  "leash_knot": {
+    "en": "Leash Knot",
+    "ja": "つなの結び目",
+    "ko": "리드 매듭",
+    "zh": "拴绳结"
+  },
+  "lightning_bolt": {
+    "en": "Lightning Bolt",
+    "ja": "稲妻",
+    "ko": "번개",
+    "zh": "闪电束"
+  },
+  "llama": {
+    "en": "Llama",
+    "ja": "ラマ",
+    "ko": "라마",
+    "zh": "羊驼"
+  },
+  "llama_spit": {
+    "en": "Llama Spit",
+    "ja": "ラマの唾（召喚不可）",
+    "ko": "라마 침 (소환 불가)",
+    "zh": "羊驼唾沫（不可召唤）"
+  },
+  "magma_cube": {
+    "en": "Magma Cube",
+    "ja": "マグマキューブ",
+    "ko": "마그마 큐브",
+    "zh": "岩浆怪"
+  },
+  "mannequin": {
+    "en": "Mannequin",
+    "ja": "マネキン",
+    "ko": "마네킹",
+    "zh": "人体模型"
+  },
+  "marker": {
+    "en": "Marker",
+    "ja": "マーカー",
+    "ko": "마커",
+    "zh": "标记"
+  },
+  "minecart": {
+    "en": "Minecart",
+    "ja": "鉱車",
+    "ko": "광산 수레",
+    "zh": "矿车"
+  },
+  "mooshroom": {
+    "en": "Mooshroom",
+    "ja": "ムーシュルーム",
+    "ko": "무시룸",
+    "zh": "哞菇"
+  },
+  "mule": {
+    "en": "Mule",
+    "ja": "ラバ",
+    "ko": "노새",
+    "zh": "骡"
+  },
+  "nautilus": {
+    "en": "Nautilus",
+    "ja": "ナウティロス",
+    "ko": "노틸러스",
+    "zh": "鹦鹉螺"
+  },
+  "ocelot": {
+    "en": "Ocelot",
+    "ja": "オセロット",
+    "ko": "오셀롯",
+    "zh": "豹猫"
+  },
+  "ominous_item_spawner": {
+    "en": "Ominous Item Spawner",
+    "ja": "不吉なアイテム生成器（召喚不可）",
+    "ko": "불길한 아이템 생성기 (소환 불가)",
+    "zh": "不祥之物生成器（不可召唤）"
+  },
+  "painting": {
+    "en": "Painting",
+    "ja": "絵画（召喚不可）",
+    "ko": "그림 (소환 불가)",
+    "zh": "画（不可召唤）"
+  },
+  "panda": {
+    "en": "Panda",
+    "ja": "パンダ",
+    "ko": "판다",
+    "zh": "熊猫"
+  },
+  "parched": {
+    "en": "Parched",
+    "ja": "パーチド",
+    "ko": "파치드",
+    "zh": "焦骸"
+  },
+  "parrot": {
+    "en": "Parrot",
+    "ja": "オウム",
+    "ko": "앵무새",
+    "zh": "鹦鹉"
+  },
+  "phantom": {
+    "en": "Phantom",
+    "ja": "ファントム",
+    "ko": "팬텀",
+    "zh": "幻翼"
+  },
+  "pig": {
+    "en": "Pig",
+    "ja": "ブタ",
+    "ko": "돼지",
+    "zh": "猪"
+  },
+  "piglin": {
+    "en": "Piglin",
+    "ja": "ピグリン",
+    "ko": "피글린",
+    "zh": "猪灵"
+  },
+  "piglin_brute": {
+    "en": "Piglin Brute",
+    "ja": "ピグリンブルート",
+    "ko": "피글린 브루트",
+    "zh": "猪灵蛮兵"
+  },
+  "pillager": {
+    "en": "Pillager",
+    "ja": "略奪者",
+    "ko": "약탈자",
+    "zh": "掠夺者"
+  },
+  "polar_bear": {
+    "en": "Polar Bear",
+    "ja": "ホッキョクグマ",
+    "ko": "북극곰",
+    "zh": "北极熊"
+  },
+  "splash_potion": {
+    "en": "Splash Potion",
+    "ja": "スプラッシュポーション",
+    "ko": "튀기는 물약",
+    "zh": "喷溅药水"
+  },
+  "lingering_potion": {
+    "en": "Lingering Potion",
+    "ja": "残留ポーション（召喚不可）",
+    "ko": "잔류 물약 (소환 불가)",
+    "zh": "滞留药水（不可召唤）"
+  },
+  "pufferfish": {
+    "en": "Pufferfish",
+    "ja": "フグ",
+    "ko": "복어",
+    "zh": "河豚"
+  },
+  "rabbit": {
+    "en": "Rabbit",
+    "ja": "ウサギ",
+    "ko": "토끼",
+    "zh": "兔子"
+  },
+  "ravager": {
+    "en": "Ravager",
+    "ja": "レイバー",
+    "ko": "래이버저",
+    "zh": "劫掠兽"
+  },
+  "salmon": {
+    "en": "Salmon",
+    "ja": "サケ",
+    "ko": "연어",
+    "zh": "鲑鱼"
+  },
+  "sheep": {
+    "en": "Sheep",
+    "ja": "ヒツジ",
+    "ko": "양",
+    "zh": "绵羊"
+  },
+  "shulker": {
+    "en": "Shulker",
+    "ja": "シュルカー",
+    "ko": "슈커",
+    "zh": "潜影贝"
+  },
+  "shulker_bullet": {
+    "en": "Shulker Bullet",
+    "ja": "シュルカーの弾（召喚不可）",
+    "ko": "슈커 탄환 (소환 불가)",
+    "zh": "潜影弹（不可召唤）"
+  },
+  "silverfish": {
+    "en": "Silverfish",
+    "ja": "シルバーフィッシュ",
+    "ko": "은둔충",
+    "zh": "蠹虫"
+  },
+  "skeleton": {
+    "en": "Skeleton",
+    "ja": "スケルトン",
+    "ko": "스켈레톤",
+    "zh": "骷髅"
+  },
+  "skeleton_horse": {
+    "en": "Skeleton Horse",
+    "ja": "スケルトンのウマ",
+    "ko": "스켈레톤 말",
+    "zh": "骷髅马"
+  },
+  "slime": {
+    "en": "Slime",
+    "ja": "スライム",
+    "ko": "슬라임",
+    "zh": "史莱姆"
+  },
+  "small_fireball": {
+    "en": "Small Fireball",
+    "ja": "小さな火球（召喚不可）",
+    "ko": "소형 화염구 (소환 불가)",
+    "zh": "小火球（不可召唤）"
+  },
+  "sniffer": {
+    "en": "Sniffer",
+    "ja": "スニファー",
+    "ko": "스니퍼",
+    "zh": "嗅探兽"
+  },
+  "snowball": {
+    "en": "Snowball",
+    "ja": "雪玉",
+    "ko": "눈덩이",
+    "zh": "雪球"
+  },
+  "snow_golem": {
+    "en": "Snow Golem",
+    "ja": "スノーゴーレム",
+    "ko": "스노우 골렘",
+    "zh": "雪傀儡"
+  },
+  "spawner_minecart": {
+    "en": "Spawner Minecart",
+    "ja": "スポーンナー付き鉱車",
+    "ko": "스포너 광산 수레",
+    "zh": "刷怪笼矿车"
+  },
+  "spectral_arrow": {
+    "en": "Spectral Arrow",
+    "ja": "スペクトラルアロー",
+    "ko": "신체 화살",
+    "zh": "光灵箭"
+  },
+  "spider": {
+    "en": "Spider",
+    "ja": "クモ",
+    "ko": "거미",
+    "zh": "蜘蛛"
+  },
+  "squid": {
+    "en": "Squid",
+    "ja": "イカ",
+    "ko": "오징어",
+    "zh": "鱿鱼"
+  },
+  "stray": {
+    "en": "Stray",
+    "ja": "ストレイ",
+    "ko": "스트레이",
+    "zh": "流浪者"
+  },
+  "strider": {
+    "en": "Strider",
+    "ja": "ストライダー",
+    "ko": "스트라이더",
+    "zh": "炽足兽"
+  },
+  "sulfur_cube": {
+    "en": "Sulfur Cube",
+    "ja": "サルファーキューブ",
+    "ko": "황화 큐브",
+    "zh": "硫方怪"
+  },
+  "tadpole": {
+    "en": "Tadpole",
+    "ja": "オタマジャクシ",
+    "ko": "올챙이",
+    "zh": "蝌蚪"
+  },
+  "text_display": {
+    "en": "Text Display",
+    "ja": "テキストディスプレイ",
+    "ko": "텍스트 디스플레이",
+    "zh": "文本展示"
+  },
+  "tnt": {
+    "en": "TNT",
+    "ja": "起動されたTNT",
+    "ko": "활성화된 TNT",
+    "zh": "被激活的TNT"
+  },
+  "tnt_minecart": {
+    "en": "TNT Minecart",
+    "ja": "TNT鉱車",
+    "ko": "TNT 광산 수레",
+    "zh": "TNT矿车"
+  },
+  "trader_llama": {
+    "en": "Trader Llama",
+    "ja": "行商人ラマ",
+    "ko": "상인 라마",
+    "zh": "行商羊驼"
+  },
+  "trident": {
+    "en": "Trident",
+    "ja": "投げられたトライデント（召喚不可）",
+    "ko": "투척한 삼지창 (소환 불가)",
+    "zh": "三叉戟（不可召唤）"
+  },
+  "tropical_fish": {
+    "en": "Tropical Fish",
+    "ja": "熱帯魚",
+    "ko": "열대어",
+    "zh": "热带鱼"
+  },
+  "turtle": {
+    "en": "Turtle",
+    "ja": "ウミガメ",
+    "ko": "바다거북",
+    "zh": "海龟"
+  },
+  "vex": {
+    "en": "Vex",
+    "ja": "ヴェックス",
+    "ko": "벡스",
+    "zh": "恼鬼"
+  },
+  "villager": {
+    "en": "Villager",
+    "ja": "村人",
+    "ko": "마을 주민",
+    "zh": "村民"
+  },
+  "vindicator": {
+    "en": "Vindicator",
+    "ja": "復讐者",
+    "ko": "빈디케이터",
+    "zh": "卫道士"
+  },
+  "wandering_trader": {
+    "en": "Wandering Trader",
+    "ja": "旅商人",
+    "ko": "방랑 상인",
+    "zh": "流浪商人"
+  },
+  "warden": {
+    "en": "Warden",
+    "ja": "ウォーデン",
+    "ko": "워든",
+    "zh": "监守者"
+  },
+  "wind_charge": {
+    "en": "Wind Charge",
+    "ja": "Wind Charge",
+    "ko": "Wind Charge",
+    "zh": "Wind Charge"
+  },
+  "witch": {
+    "en": "Witch",
+    "ja": "魔女",
+    "ko": "마녀",
+    "zh": "女巫"
+  },
+  "wither": {
+    "en": "Wither",
+    "ja": "ウィザー",
+    "ko": "위더",
+    "zh": "凋灵"
+  },
+  "wither_skeleton": {
+    "en": "Wither Skeleton",
+    "ja": "ウィザースケルトン",
+    "ko": "위더 스켈레톤",
+    "zh": "凋灵骷髅"
+  },
+  "wither_skull": {
+    "en": "Wither Skull",
+    "ja": "ウィザーの頭蓋",
+    "ko": "위더 두개골",
+    "zh": "凋灵之首"
+  },
+  "wolf": {
+    "en": "Wolf",
+    "ja": "オオカミ",
+    "ko": "늑대",
+    "zh": "狼"
+  },
+  "zoglin": {
+    "en": "Zoglin",
+    "ja": "ゾグリン",
+    "ko": "조글린",
+    "zh": "僵尸疣猪兽"
+  },
+  "zombie": {
+    "en": "Zombie",
+    "ja": "ゾンビ",
+    "ko": "좀비",
+    "zh": "僵尸"
+  },
+  "zombie_horse": {
+    "en": "Zombie Horse",
+    "ja": "ゾンビのウマ",
+    "ko": "좀비 말",
+    "zh": "僵尸马"
+  },
+  "zombie_nautilus": {
+    "en": "Zombie Nautilus",
+    "ja": "ゾンビナウティロス",
+    "ko": "좀비 노틸러스",
+    "zh": "僵尸鹦鹉螺"
+  },
+  "zombie_villager": {
+    "en": "Zombie Villager",
+    "ja": "ゾンビ村人",
+    "ko": "좀비 마을 주민",
+    "zh": "僵尸村民"
+  },
+  "zombified_piglin": {
+    "en": "Zombified Piglin",
+    "ja": "ゾンビピグリン",
+    "ko": "좀비 피글린",
+    "zh": "僵尸猪灵"
+  },
+  "player": {
+    "en": "Player",
+    "ja": "プレイヤー（召喚不可）",
+    "ko": "플레이어 (소환 불가)",
+    "zh": "玩家（不可召唤）"
+  }
+}

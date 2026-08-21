@@ -1,0 +1,476 @@
+{
+  "minecraft:fog_bamboo_jungle": {
+    "en": "Bamboo Jungle Fog",
+    "ja": "竹林の霧",
+    "ko": "대나무 정글 안개",
+    "zh": "竹林迷雾"
+  },
+  "minecraft:fog_bamboo_jungle_hills": {
+    "en": "Bamboo Jungle Hills Fog",
+    "ja": "竹林の霧",
+    "ko": "대나무 정글 안개",
+    "zh": "竹林迷雾"
+  },
+  "minecraft:fog_basalt_deltas": {
+    "en": "Basalt Deltas Fog",
+    "ja": "玄武岩三角洲の霧",
+    "ko": "현무암 삼각주 안개",
+    "zh": "玄武岩三角洲迷雾"
+  },
+  "minecraft:fog_beach": {
+    "en": "Beach Fog",
+    "ja": "砂浜の霧",
+    "ko": "해변 안개",
+    "zh": "沙滩迷雾"
+  },
+  "minecraft:fog_birch_forest": {
+    "en": "Birch Forest Fog",
+    "ja": "白樺の森の霧",
+    "ko": "자작나무 숲 안개",
+    "zh": "桦木森林迷雾"
+  },
+  "minecraft:fog_birch_forest_hills": {
+    "en": "Birch Forest Hills Fog",
+    "ja": "白樺の森の霧",
+    "ko": "자작나무 숲 안개",
+    "zh": "桦木森林迷雾"
+  },
+  "minecraft:fog_cherry_grove": {
+    "en": "Cherry Grove Fog",
+    "ja": "桜の Groveの霧",
+    "ko": "벚꽃 나무 숲 안개",
+    "zh": "樱花树林迷雾"
+  },
+  "minecraft:fog_cold_beach": {
+    "en": "Cold Beach Fog",
+    "ja": "雪の降る砂浜の霧",
+    "ko": "차가운 해변 안개",
+    "zh": "积雪沙滩迷雾"
+  },
+  "minecraft:fog_cold_ocean": {
+    "en": "Cold Ocean Fog",
+    "ja": "冷たい海の霧",
+    "ko": "차가운 바다 안개",
+    "zh": "冷水海洋迷雾"
+  },
+  "minecraft:fog_cold_taiga": {
+    "en": "Cold Taiga Fog",
+    "ja": "雪原のタイガの霧",
+    "ko": "차가운 타이가 안개",
+    "zh": "积雪针叶林迷雾"
+  },
+  "minecraft:fog_cold_taiga_hills": {
+    "en": "Cold Taiga Hills Fog",
+    "ja": "雪原のタイガの霧",
+    "ko": "차가운 타이가 안개",
+    "zh": "积雪针叶林迷雾"
+  },
+  "minecraft:fog_cold_taiga_mutated": {
+    "en": "Snowy Taiga Fog",
+    "ja": "雪原のタイガの山脈の霧",
+    "ko": "차가운 타이가 산맥 안개",
+    "zh": "积雪的针叶林山地迷雾"
+  },
+  "minecraft:fog_crimson_forest": {
+    "en": "Crimson Forest Fog",
+    "ja": "真紅の森の霧",
+    "ko": "진홍빛 숲 안개",
+    "zh": "绯红森林迷雾"
+  },
+  "minecraft:fog_deep_cold_ocean": {
+    "en": "Deep Cold Ocean Fog",
+    "ja": "深い冷たい海の霧",
+    "ko": "깊은 차가운 바다 안개",
+    "zh": "冷水深海迷雾"
+  },
+  "minecraft:fog_deep_frozen_ocean": {
+    "en": "Deep Frozen Ocean Fog",
+    "ja": "深い凍った海の霧",
+    "ko": "깊은 얼어붙은 바다 안개",
+    "zh": "冰冻深海迷雾"
+  },
+  "minecraft:fog_deep_lukewarm_ocean": {
+    "en": "Deep Lukewarm Ocean Fog",
+    "ja": "深いぬるい海の霧",
+    "ko": "깊은 미지근한 바다 안개",
+    "zh": "温水深海迷雾"
+  },
+  "minecraft:fog_deep_ocean": {
+    "en": "Deep Ocean Fog",
+    "ja": "深海の霧",
+    "ko": "깊은 바다 안개",
+    "zh": "深海迷雾"
+  },
+  "minecraft:fog_deep_warm_ocean": {
+    "en": "Deep Warm Ocean Fog",
+    "ja": "深い暖かい海の霧",
+    "ko": "깊은 따뜻한 바다 안개",
+    "zh": "暖水深海迷雾"
+  },
+  "minecraft:fog_default": {
+    "en": "Default Fog",
+    "ja": "デフォルトの霧",
+    "ko": "기본 안개",
+    "zh": "默认迷雾"
+  },
+  "minecraft:fog_desert": {
+    "en": "Desert Fog",
+    "ja": "砂漠の霧",
+    "ko": "사막 안개",
+    "zh": "沙漠迷雾"
+  },
+  "minecraft:fog_desert_hills": {
+    "en": "Desert Hills Fog",
+    "ja": "砂漠の霧",
+    "ko": "사막 안개",
+    "zh": "沙漠迷雾"
+  },
+  "minecraft:fog_dry": {
+    "en": "Dry Fog",
+    "ja": "乾いた霧",
+    "ko": "건조한 안개",
+    "zh": "干燥迷雾"
+  },
+  "minecraft:fog_extreme_hills": {
+    "en": "Windswept Hills Fog",
+    "ja": "風衝の丘の霧",
+    "ko": "극한의 언덕 안개",
+    "zh": "风袭丘陵迷雾"
+  },
+  "minecraft:fog_extreme_hills_edge": {
+    "en": "Windswept Hills Edge Fog",
+    "ja": "風衝の丘の霧",
+    "ko": "극한의 언덕 안개",
+    "zh": "风袭丘陵迷雾"
+  },
+  "minecraft:fog_extreme_hills_mutated": {
+    "en": "Windswept Gravelly Hills Fog",
+    "ja": "風衝の砂利の丘の霧",
+    "ko": "자갈 극한의 언덕 안개",
+    "zh": "风袭沙砾丘陵迷雾"
+  },
+  "minecraft:fog_extreme_hills_plus_trees": {
+    "en": "Windswept Forest Fog",
+    "ja": "風衝の森の霧",
+    "ko": "나무 있는 극한의 언덕 안개",
+    "zh": "风袭森林迷雾"
+  },
+  "minecraft:fog_extreme_hills_plus_trees_mutated": {
+    "en": "Windswept Forest Hills Fog",
+    "ja": "風衝の砂利の山脈+の霧",
+    "ko": "자갈 산맥+ 안개",
+    "zh": "沙砾山地+迷雾"
+  },
+  "minecraft:fog_flower_forest": {
+    "en": "Flower Forest Fog",
+    "ja": "花の森の霧",
+    "ko": "꽃이 피는 숲 안개",
+    "zh": "繁花森林迷雾"
+  },
+  "minecraft:fog_forest": {
+    "en": "Forest Fog",
+    "ja": "森の霧",
+    "ko": "숲 안개",
+    "zh": "森林迷雾"
+  },
+  "minecraft:fog_forest_hills": {
+    "en": "Forest Hills Fog",
+    "ja": "森の霧",
+    "ko": "숲 안개",
+    "zh": "森林迷雾"
+  },
+  "minecraft:fog_frozen_ocean": {
+    "en": "Frozen Ocean Fog",
+    "ja": "凍った海の霧",
+    "ko": "얼어붙은 바다 안개",
+    "zh": "冻洋迷雾"
+  },
+  "minecraft:fog_frozen_river": {
+    "en": "Frozen River Fog",
+    "ja": "凍った川の霧",
+    "ko": "얼어붙은 강 안개",
+    "zh": "冻河迷雾"
+  },
+  "minecraft:fog_hell": {
+    "en": "Nether Wastes Fog",
+    "ja": "ネザーの荒れ地の霧",
+    "ko": "지옥 안개",
+    "zh": "下界荒地迷雾"
+  },
+  "minecraft:fog_humid": {
+    "en": "Humid Fog",
+    "ja": "湿った霧",
+    "ko": "습한 안개",
+    "zh": "潮湿迷雾"
+  },
+  "minecraft:fog_ice_mountains": {
+    "en": "Ice Mountains Fog",
+    "ja": "氷原の霧",
+    "ko": "얼음 평원 안개",
+    "zh": "雪原迷雾"
+  },
+  "minecraft:fog_ice_plains": {
+    "en": "Snowy Plains Fog",
+    "ja": "氷原の霧",
+    "ko": "얼음 평원 안개",
+    "zh": "雪原迷雾"
+  },
+  "minecraft:fog_ice_plains_spikes": {
+    "en": "Ice Spikes Fog",
+    "ja": "氷の針の霧",
+    "ko": "얼음 송곳 평원 안개",
+    "zh": "冰刺之地迷雾"
+  },
+  "minecraft:fog_jungle": {
+    "en": "Jungle Fog",
+    "ja": "ジャングルの霧",
+    "ko": "정글 안개",
+    "zh": "丛林迷雾"
+  },
+  "minecraft:fog_jungle_edge": {
+    "en": "Jungle Edge Fog",
+    "ja": "ジャングルの霧",
+    "ko": "정글 안개",
+    "zh": "丛林迷雾"
+  },
+  "minecraft:fog_jungle_hills": {
+    "en": "Jungle Hills Fog",
+    "ja": "ジャングルの霧",
+    "ko": "정글 안개",
+    "zh": "丛林迷雾"
+  },
+  "minecraft:fog_jungle_mutated": {
+    "en": "Sparse Jungle Fog",
+    "ja": "変種のジャングルの霧",
+    "ko": "정글 변종 안개",
+    "zh": "丛林变种迷雾"
+  },
+  "minecraft:fog_lukewarm_ocean": {
+    "en": "Lukewarm Ocean Fog",
+    "ja": "ぬるい海の霧",
+    "ko": "미지근한 바다 안개",
+    "zh": "温水海洋迷雾"
+  },
+  "minecraft:fog_lush_caves": {
+    "en": "Lush Caves Fog",
+    "ja": "繁茂した洞窟の霧",
+    "ko": "울창한 동굴 안개",
+    "zh": "繁茂洞穴迷雾"
+  },
+  "minecraft:fog_mangrove_swamp": {
+    "en": "Mangrove Swamp Fog",
+    "ja": "マングローブの沼沢の霧",
+    "ko": "맹그로브 늪 안개",
+    "zh": "红树林沼泽迷雾"
+  },
+  "minecraft:fog_mega_spruce_taiga": {
+    "en": "Giant Spruce Taiga Fog",
+    "ja": "巨大トウヒのタイガの霧",
+    "ko": "거대 소나무 타이가 안개",
+    "zh": "巨型云杉针叶林迷雾"
+  },
+  "minecraft:fog_mega_spruce_taiga_mutated": {
+    "en": "Modified Giant Spruce Taiga Fog",
+    "ja": "変種の巨大トウヒのタイガの霧",
+    "ko": "변종 거대 소나무 타이가 안개",
+    "zh": "变种巨型云杉针叶林迷雾"
+  },
+  "minecraft:fog_mega_taiga": {
+    "en": "Giant Tree Taiga Fog",
+    "ja": "老齢松のタイガの霧",
+    "ko": "원시 소나무 타이가 안개",
+    "zh": "原始松木针叶林迷雾"
+  },
+  "minecraft:fog_mega_taiga_hills": {
+    "en": "Giant Tree Taiga Hills Fog",
+    "ja": "老齢松のタイガの霧",
+    "ko": "원시 소나무 타이가 안개",
+    "zh": "原始松木针叶林迷雾"
+  },
+  "minecraft:fog_mega_taiga_mutated": {
+    "en": "Modified Giant Tree Taiga Fog",
+    "ja": "変種の巨大樹のタイガの霧",
+    "ko": "변종 거대 나무 타이가 안개",
+    "zh": "变种巨型树木针叶林迷雾"
+  },
+  "minecraft:fog_mesa": {
+    "en": "Badlands Fog",
+    "ja": "バッドランドの霧",
+    "ko": "메사 안개",
+    "zh": "恶地迷雾"
+  },
+  "minecraft:fog_mesa_bryce": {
+    "en": "Eroded Badlands Fog",
+    "ja": "浸食されたバッドランドの霧",
+    "ko": "침식된 메사 안개",
+    "zh": "风蚀恶地迷雾"
+  },
+  "minecraft:fog_mesa_mutated": {
+    "en": "Modified Badlands Fog",
+    "ja": "変種のバッドランドの霧",
+    "ko": "변종 메사 안개",
+    "zh": "变种恶地迷雾"
+  },
+  "minecraft:fog_mesa_plateau": {
+    "en": "Badlands Plateau Fog",
+    "ja": "バッドランドの台地の霧",
+    "ko": "메사 고원 안개",
+    "zh": "恶地高原迷雾"
+  },
+  "minecraft:fog_mesa_plateau_stone": {
+    "en": "Wooded Badlands Fog",
+    "ja": "樹木のあるバッドランドの台地の霧",
+    "ko": "울창한 메사 고원 안개",
+    "zh": "繁茂的恶地高原迷雾"
+  },
+  "minecraft:fog_mushroom_island": {
+    "en": "Mushroom Island Fog",
+    "ja": "キノコの島の霧",
+    "ko": "버섯 섬 안개",
+    "zh": "蘑菇岛迷雾"
+  },
+  "minecraft:fog_mushroom_island_shore": {
+    "en": "Mushroom Island Shore Fog",
+    "ja": "キノコの島の霧",
+    "ko": "버섯 섬 안개",
+    "zh": "蘑菇岛迷雾"
+  },
+  "minecraft:fog_ocean": {
+    "en": "Ocean Fog",
+    "ja": "海の霧",
+    "ko": "바다 안개",
+    "zh": "海洋迷雾"
+  },
+  "minecraft:fog_pale_garden": {
+    "en": "Pale Garden Fog",
+    "ja": "蒼白の庭の霧",
+    "ko": "창백한 정원 안개",
+    "zh": "苍白之园迷雾"
+  },
+  "minecraft:fog_plains": {
+    "en": "Plains Fog",
+    "ja": "平原の霧",
+    "ko": "평원 안개",
+    "zh": "平原迷雾"
+  },
+  "minecraft:fog_powder_snow": {
+    "en": "Powder Snow Fog",
+    "ja": "粉雪の霧",
+    "ko": "가루눈 안개",
+    "zh": "细雪迷雾"
+  },
+  "minecraft:fog_river": {
+    "en": "River Fog",
+    "ja": "川の霧",
+    "ko": "강 안개",
+    "zh": "河流迷雾"
+  },
+  "minecraft:fog_roofed_forest": {
+    "en": "Dark Forest Fog",
+    "ja": "暗い森の霧",
+    "ko": "둥근 지붕 숲 안개",
+    "zh": "黑森林迷雾"
+  },
+  "minecraft:fog_roofed_forest_mutated": {
+    "en": "Dark Forest Hills Fog",
+    "ja": "暗い森の霧",
+    "ko": "둥근 지붕 숲 안개",
+    "zh": "黑森林迷雾"
+  },
+  "minecraft:fog_savanna": {
+    "en": "Savanna Fog",
+    "ja": "サバンナの霧",
+    "ko": "사바나 안개",
+    "zh": "热带草原迷雾"
+  },
+  "minecraft:fog_savanna_mutated": {
+    "en": "Windswept Savanna Fog",
+    "ja": "風衝のサバンナの霧",
+    "ko": "풍화된 사바나 안개",
+    "zh": "风袭热带草原迷雾"
+  },
+  "minecraft:fog_savanna_plateau": {
+    "en": "Savanna Plateau Fog",
+    "ja": "サバンナの台地の霧",
+    "ko": "사바나 고원 안개",
+    "zh": "热带高原迷雾"
+  },
+  "minecraft:fog_semi_humid": {
+    "en": "Semi-Humid Fog",
+    "ja": "半湿った霧",
+    "ko": "반습한 안개",
+    "zh": "半潮湿迷雾"
+  },
+  "minecraft:fog_soulsand_valley": {
+    "en": "Soul Sand Valley Fog",
+    "ja": "ソウルサンドの谷の霧",
+    "ko": "영혼 모래 계곡 안개",
+    "zh": "灵魂沙峡谷迷雾"
+  },
+  "minecraft:fog_stone_beach": {
+    "en": "Stony Shore Fog",
+    "ja": "石の海岸の霧",
+    "ko": "돌 해안 안개",
+    "zh": "石岸迷雾"
+  },
+  "minecraft:fog_sulfur_caves": {
+    "en": "Sulfur Caves Fog",
+    "ja": "硫黄の洞窟の霧",
+    "ko": "유황 동굴 안개",
+    "zh": "硫黄洞穴迷雾"
+  },
+  "minecraft:fog_sunflower_plains": {
+    "en": "Sunflower Plains Fog",
+    "ja": "ひまわり平原の霧",
+    "ko": "해바라기 평원 안개",
+    "zh": "向日葵平原迷雾"
+  },
+  "minecraft:fog_swampland": {
+    "en": "Swamp Fog",
+    "ja": "沼沢の霧",
+    "ko": "늪지 안개",
+    "zh": "沼泽迷雾"
+  },
+  "minecraft:fog_swampland_mutated": {
+    "en": "Swamp Hills Fog",
+    "ja": "沼沢の霧",
+    "ko": "늪지 안개",
+    "zh": "沼泽迷雾"
+  },
+  "minecraft:fog_taiga": {
+    "en": "Taiga Fog",
+    "ja": "タイガの霧",
+    "ko": "타이가 안개",
+    "zh": "针叶林迷雾"
+  },
+  "minecraft:fog_taiga_hills": {
+    "en": "Taiga Hills Fog",
+    "ja": "タイガの霧",
+    "ko": "타이가 안개",
+    "zh": "针叶林迷雾"
+  },
+  "minecraft:fog_taiga_mutated": {
+    "en": "Taiga Mountains Fog",
+    "ja": "タイガの山脈の霧",
+    "ko": "타이가 산맥 안개",
+    "zh": "针叶林山地迷雾"
+  },
+  "minecraft:fog_the_end": {
+    "en": "The End Fog",
+    "ja": "ジ・エンドの霧",
+    "ko": "엔드 안개",
+    "zh": "末地迷雾"
+  },
+  "minecraft:fog_warm_ocean": {
+    "en": "Warm Ocean Fog",
+    "ja": "暖かい海の霧",
+    "ko": "따뜻한 바다 안개",
+    "zh": "暖水海洋迷雾"
+  },
+  "minecraft:fog_warped_forest": {
+    "en": "Warped Forest Fog",
+    "ja": "歪んだ森の霧",
+    "ko": "뒤틀린 숲 안개",
+    "zh": "诡异森林迷雾"
+  }
+}
