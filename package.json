@@ -1,6 +1,6 @@
 {
   "name": "@ojaang/be-vanilla-iddata",
-  "version": "1.26.40",
+  "version": "1.26.40-rc.1",
   "description": "Minecraft Vanilla Id Data On NPM",
   "main": "./index.js",
   "repository": {
@@ -17,7 +17,8 @@
   },
   "files": [
     "./data/be_1.26.40.json",
-    "index.js"
+    "index.js",
+    "index.d.ts"
   ],
   "exports": {
     ".": {
