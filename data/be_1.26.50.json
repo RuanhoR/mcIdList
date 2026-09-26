@@ -9451,106 +9451,370 @@
       "en": "Black Wool Stairs"
     },
     "white_cushion": {
-      "ko": "하얀색 쿠션",
+      "en": "White Cushion",
       "ja": "白のクッション",
-      "zh": "白色坐垫",
-      "en": "White Cushion"
+      "ko": "하얀색 쿠션",
+      "zh": "白色坐垫"
     },
     "orange_cushion": {
-      "ko": "주황색 쿠션",
+      "en": "Orange Cushion",
       "ja": "橙色のクッション",
-      "zh": "橙色坐垫",
-      "en": "Orange Cushion"
+      "ko": "주황색 쿠션",
+      "zh": "橙色坐垫"
     },
     "magenta_cushion": {
-      "ko": "자홍색 쿠션",
+      "en": "Magenta Cushion",
       "ja": "赤紫色のクッション",
-      "zh": "品红色坐垫",
-      "en": "Magenta Cushion"
+      "ko": "자홍색 쿠션",
+      "zh": "品红色坐垫"
     },
     "light_blue_cushion": {
-      "ko": "하늘색 쿠션",
+      "en": "Light Blue Cushion",
       "ja": "水色のクッション",
-      "zh": "淡蓝色坐垫",
-      "en": "Light Blue Cushion"
+      "ko": "하늘색 쿠션",
+      "zh": "淡蓝色坐垫"
     },
     "yellow_cushion": {
-      "ko": "노란색 쿠션",
+      "en": "Yellow Cushion",
       "ja": "黄のクッション",
-      "zh": "黄色坐垫",
-      "en": "Yellow Cushion"
+      "ko": "노란색 쿠션",
+      "zh": "黄色坐垫"
     },
     "lime_cushion": {
-      "ko": "연두색 쿠션",
+      "en": "Lime Cushion",
       "ja": "黄绿色のクッション",
-      "zh": "黄绿色坐垫",
-      "en": "Lime Cushion"
+      "ko": "연두색 쿠션",
+      "zh": "黄绿色坐垫"
     },
     "pink_cushion": {
-      "ko": "분홍색 쿠션",
+      "en": "Pink Cushion",
       "ja": "桃色のクッション",
-      "zh": "粉红色坐垫",
-      "en": "Pink Cushion"
+      "ko": "분홍색 쿠션",
+      "zh": "粉红色坐垫"
     },
     "gray_cushion": {
-      "ko": "회색 쿠션",
+      "en": "Gray Cushion",
       "ja": "灰色のクッション",
-      "zh": "灰色坐垫",
-      "en": "Gray Cushion"
+      "ko": "회색 쿠션",
+      "zh": "灰色坐垫"
     },
     "light_gray_cushion": {
-      "ko": "밝은 회색 쿠션",
+      "en": "Light Gray Cushion",
       "ja": "薄灰色のクッション",
-      "zh": "淡灰色坐垫",
-      "en": "Light Gray Cushion"
+      "ko": "밝은 회색 쿠션",
+      "zh": "淡灰色坐垫"
     },
     "cyan_cushion": {
-      "ko": "청록색 쿠션",
+      "en": "Cyan Cushion",
       "ja": "青緑のクッション",
-      "zh": "青色坐垫",
-      "en": "Cyan Cushion"
+      "ko": "청록색 쿠션",
+      "zh": "青色坐垫"
     },
     "purple_cushion": {
-      "ko": "보라색 쿠션",
+      "en": "Purple Cushion",
       "ja": "紫色のクッション",
-      "zh": "紫色坐垫",
-      "en": "Purple Cushion"
+      "ko": "보라색 쿠션",
+      "zh": "紫色坐垫"
     },
     "blue_cushion": {
-      "ko": "파란색 쿠션",
+      "en": "Blue Cushion",
       "ja": "青のクッション",
-      "zh": "蓝色坐垫",
-      "en": "Blue Cushion"
+      "ko": "파란색 쿠션",
+      "zh": "蓝色坐垫"
     },
     "brown_cushion": {
-      "ko": "갈색 쿠션",
+      "en": "Brown Cushion",
       "ja": "茶色のクッション",
-      "zh": "棕色坐垫",
-      "en": "Brown Cushion"
+      "ko": "갈색 쿠션",
+      "zh": "棕色坐垫"
     },
     "green_cushion": {
-      "ko": "초록색 쿠션",
+      "en": "Green Cushion",
       "ja": "緑色のクッション",
-      "zh": "绿色坐垫",
-      "en": "Green Cushion"
+      "ko": "초록색 쿠션",
+      "zh": "绿色坐垫"
     },
     "red_cushion": {
-      "ko": "빨간색 쿠션",
+      "en": "Red Cushion",
       "ja": "赤色のクッション",
-      "zh": "红色坐垫",
-      "en": "Red Cushion"
+      "ko": "빨간색 쿠션",
+      "zh": "红色坐垫"
     },
     "black_cushion": {
-      "ko": "검은색 쿠션",
+      "en": "Black Cushion",
       "ja": "黒のクッション",
-      "zh": "黑色坐垫",
-      "en": "Black Cushion"
+      "ko": "검은색 쿠션",
+      "zh": "黑色坐垫"
     },
     "straw_bed": {
       "ko": "밀짚 침대",
       "ja": "麦わらのベッド",
       "zh": "麦秆床",
       "en": "Straw Bed"
+    },
+    "white_concrete_slab": {
+      "en": "White Concrete Slab",
+      "ja": "白のコンクリートハーフブロック",
+      "ko": "하얀색 콘크리트 반 블록",
+      "zh": "白色混凝土台阶"
+    },
+    "white_concrete_stairs": {
+      "en": "White Concrete Stairs",
+      "ja": "白のコンクリートの階段",
+      "ko": "하얀색 콘크리트 계단",
+      "zh": "白色混凝土楼梯"
+    },
+    "orange_concrete_slab": {
+      "en": "Orange Concrete Slab",
+      "ja": "橙色のコンクリートハーフブロック",
+      "ko": "주황색 콘크리트 반 블록",
+      "zh": "橙色混凝土台阶"
+    },
+    "orange_concrete_stairs": {
+      "en": "Orange Concrete Stairs",
+      "ja": "橙色のコンクリートの階段",
+      "ko": "주황색 콘크리트 계단",
+      "zh": "橙色混凝土楼梯"
+    },
+    "magenta_concrete_slab": {
+      "en": "Magenta Concrete Slab",
+      "ja": "赤紫色のコンクリートハーフブロック",
+      "ko": "자홍색 콘크리트 반 블록",
+      "zh": "品红色混凝土台阶"
+    },
+    "magenta_concrete_stairs": {
+      "en": "Magenta Concrete Stairs",
+      "ja": "赤紫色のコンクリートの階段",
+      "ko": "자홍색 콘크리트 계단",
+      "zh": "品红色混凝土楼梯"
+    },
+    "light_blue_concrete_slab": {
+      "en": "Light Blue Concrete Slab",
+      "ja": "水色のコンクリートハーフブロック",
+      "ko": "하늘색 콘크리트 반 블록",
+      "zh": "淡蓝色混凝土台阶"
+    },
+    "light_blue_concrete_stairs": {
+      "en": "Light Blue Concrete Stairs",
+      "ja": "水色のコンクリートの階段",
+      "ko": "하늘색 콘크리트 계단",
+      "zh": "淡蓝色混凝土楼梯"
+    },
+    "yellow_concrete_slab": {
+      "en": "Yellow Concrete Slab",
+      "ja": "黄のコンクリートハーフブロック",
+      "ko": "노란색 콘크리트 반 블록",
+      "zh": "黄色混凝土台阶"
+    },
+    "yellow_concrete_stairs": {
+      "en": "Yellow Concrete Stairs",
+      "ja": "黄のコンクリートの階段",
+      "ko": "노란색 콘크리트 계단",
+      "zh": "黄色混凝土楼梯"
+    },
+    "lime_concrete_slab": {
+      "en": "Lime Concrete Slab",
+      "ja": "黄緑色のコンクリートハーフブロック",
+      "ko": "연두색 콘크리트 반 블록",
+      "zh": "黄绿色混凝土台阶"
+    },
+    "lime_concrete_stairs": {
+      "en": "Lime Concrete Stairs",
+      "ja": "黄緑色のコンクリートの階段",
+      "ko": "연두색 콘크리트 계단",
+      "zh": "黄绿色混凝土楼梯"
+    },
+    "pink_concrete_slab": {
+      "en": "Pink Concrete Slab",
+      "ja": "桃色のコンクリートハーフブロック",
+      "ko": "분홍색 콘크리트 반 블록",
+      "zh": "粉红色混凝土台阶"
+    },
+    "pink_concrete_stairs": {
+      "en": "Pink Concrete Stairs",
+      "ja": "桃色のコンクリートの階段",
+      "ko": "분홍색 콘크리트 계단",
+      "zh": "粉红色混凝土楼梯"
+    },
+    "gray_concrete_slab": {
+      "en": "Gray Concrete Slab",
+      "ja": "灰色のコンクリートハーフブロック",
+      "ko": "회색 콘크리트 반 블록",
+      "zh": "灰色混凝土台阶"
+    },
+    "gray_concrete_stairs": {
+      "en": "Gray Concrete Stairs",
+      "ja": "灰色のコンクリートの階段",
+      "ko": "회색 콘크리트 계단",
+      "zh": "灰色混凝土楼梯"
+    },
+    "light_gray_concrete_slab": {
+      "en": "Light Gray Concrete Slab",
+      "ja": "薄灰色のコンクリートハーフブロック",
+      "ko": "밝은 회색 콘크리트 반 블록",
+      "zh": "淡灰色混凝土台阶"
+    },
+    "light_gray_concrete_stairs": {
+      "en": "Light Gray Concrete Stairs",
+      "ja": "薄灰色のコンクリートの階段",
+      "ko": "밝은 회색 콘크리트 계단",
+      "zh": "淡灰色混凝土楼梯"
+    },
+    "cyan_concrete_slab": {
+      "en": "Cyan Concrete Slab",
+      "ja": "青緑のコンクリートハーフブロック",
+      "ko": "청록색 콘크리트 반 블록",
+      "zh": "青色混凝土台阶"
+    },
+    "cyan_concrete_stairs": {
+      "en": "Cyan Concrete Stairs",
+      "ja": "青緑のコンクリートの階段",
+      "ko": "청록색 콘크리트 계단",
+      "zh": "青色混凝土楼梯"
+    },
+    "purple_concrete_slab": {
+      "en": "Purple Concrete Slab",
+      "ja": "紫色のコンクリートハーフブロック",
+      "ko": "보라색 콘크리트 반 블록",
+      "zh": "紫色混凝土台阶"
+    },
+    "purple_concrete_stairs": {
+      "en": "Purple Concrete Stairs",
+      "ja": "紫色のコンクリートの階段",
+      "ko": "보라색 콘크리트 계단",
+      "zh": "紫色混凝土楼梯"
+    },
+    "blue_concrete_slab": {
+      "en": "Blue Concrete Slab",
+      "ja": "青のコンクリートハーフブロック",
+      "ko": "파란색 콘크리트 반 블록",
+      "zh": "蓝色混凝土台阶"
+    },
+    "blue_concrete_stairs": {
+      "en": "Blue Concrete Stairs",
+      "ja": "青のコンクリートの階段",
+      "ko": "파란색 콘크리트 계단",
+      "zh": "蓝色混凝土楼梯"
+    },
+    "brown_concrete_slab": {
+      "en": "Brown Concrete Slab",
+      "ja": "茶色のコンクリートハーフブロック",
+      "ko": "갈색 콘크리트 반 블록",
+      "zh": "棕色混凝土台阶"
+    },
+    "brown_concrete_stairs": {
+      "en": "Brown Concrete Stairs",
+      "ja": "茶色のコンクリートの階段",
+      "ko": "갈색 콘크리트 계단",
+      "zh": "棕色混凝土楼梯"
+    },
+    "green_concrete_slab": {
+      "en": "Green Concrete Slab",
+      "ja": "緑色のコンクリートハーフブロック",
+      "ko": "초록색 콘크리트 반 블록",
+      "zh": "绿色混凝土台阶"
+    },
+    "green_concrete_stairs": {
+      "en": "Green Concrete Stairs",
+      "ja": "緑色のコンクリートの階段",
+      "ko": "초록색 콘크리트 계단",
+      "zh": "绿色混凝土楼梯"
+    },
+    "red_concrete_slab": {
+      "en": "Red Concrete Slab",
+      "ja": "赤色のコンクリートハーフブロック",
+      "ko": "빨간색 콘크리트 반 블록",
+      "zh": "红色混凝土台阶"
+    },
+    "red_concrete_stairs": {
+      "en": "Red Concrete Stairs",
+      "ja": "赤色のコンクリートの階段",
+      "ko": "빨간색 콘크리트 계단",
+      "zh": "红色混凝土楼梯"
+    },
+    "black_concrete_slab": {
+      "en": "Black Concrete Slab",
+      "ja": "黒のコンクリートハーフブロック",
+      "ko": "검은색 콘크리트 반 블록",
+      "zh": "黑色混凝土台阶"
+    },
+    "black_concrete_stairs": {
+      "en": "Black Concrete Stairs",
+      "ja": "黒のコンクリートの階段",
+      "ko": "검은색 콘크리트 계단",
+      "zh": "黑色混凝土楼梯"
+    },
+    "shelf_mushroom": {
+      "en": "Shelf Mushroom",
+      "ja": "棚のキノコ",
+      "ko": "선반 버섯",
+      "zh": "层孔菇"
+    },
+    "red_shrub": {
+      "en": "Red Shrub",
+      "ja": "赤い低木",
+      "ko": "빨간 덤불",
+      "zh": "红灌木"
+    },
+    "photo": {
+      "en": "Photo",
+      "ja": "写真",
+      "ko": "사진",
+      "zh": "照片"
+    },
+    "portfolio": {
+      "en": "Portfolio",
+      "ja": "ポートフォリオ",
+      "ko": "포트폴리오",
+      "zh": "相片簿"
+    },
+    "abandoned_camp_map": {
+      "en": "Abandoned Camp Map",
+      "ja": "放棄されたキャンプの地図",
+      "ko": "버려진 야영지 지도",
+      "zh": "废弃营地地图"
+    },
+    "buried_ancient_city_map": {
+      "en": "Buried Ancient City Map",
+      "ja": "埋まった古代都市の地図",
+      "ko": "묻힌 고대 도시 지도",
+      "zh": "埋藏的远古城市地图"
+    },
+    "buried_mineshaft_map": {
+      "en": "Buried Mineshaft Map",
+      "ja": "埋まった廃坑の地図",
+      "ko": "묻힌 폐광 지도",
+      "zh": "埋藏的废弃矿井地图"
+    },
+    "desert_pyramid_map": {
+      "en": "Desert Pyramid Map",
+      "ja": "砂漠のピラミッドの地図",
+      "ko": "사막 신전 지도",
+      "zh": "沙漠神殿地图"
+    },
+    "warm_ocean_ruins_map": {
+      "en": "Warm Ocean Ruins Map",
+      "ja": "暖かい海の水中遺跡の地図",
+      "ko": "따뜻한 바다 해저 유적 지도",
+      "zh": "暖水海底废墟地图"
+    },
+    "poplar_red_leaves": {
+      "ko": "빨간색 포플러잎",
+      "ja": "赤ポプラの葉",
+      "zh": "红色杨树树叶",
+      "en": "Red Poplar Leaves"
+    },
+    "poplar_orange_leaves": {
+      "ko": "주황색 포플러잎",
+      "ja": "橙ポプラの葉",
+      "zh": "橙色杨树树叶",
+      "en": "Orange Poplar Leaves"
+    },
+    "poplar_yellow_leaves": {
+      "ko": "노란색 포플러잎",
+      "ja": "黄ポプラの葉",
+      "zh": "黄色杨树树叶",
+      "en": "Yellow Poplar Leaves"
     }
   },
   "effect": {
@@ -23239,100 +23503,100 @@
       "en": "Cushion"
     },
     "white_cushion": {
-      "ko": "하얀색 쿠션",
+      "en": "White Cushion",
       "ja": "白のクッション",
-      "zh": "白色坐垫",
-      "en": "White Cushion"
+      "ko": "하얀색 쿠션",
+      "zh": "白色坐垫"
     },
     "orange_cushion": {
-      "ko": "주황색 쿠션",
+      "en": "Orange Cushion",
       "ja": "橙色のクッション",
-      "zh": "橙色坐垫",
-      "en": "Orange Cushion"
+      "ko": "주황색 쿠션",
+      "zh": "橙色坐垫"
     },
     "magenta_cushion": {
-      "ko": "자홍색 쿠션",
+      "en": "Magenta Cushion",
       "ja": "赤紫色のクッション",
-      "zh": "品红色坐垫",
-      "en": "Magenta Cushion"
+      "ko": "자홍색 쿠션",
+      "zh": "品红色坐垫"
     },
     "light_blue_cushion": {
-      "ko": "하늘색 쿠션",
+      "en": "Light Blue Cushion",
       "ja": "水色のクッション",
-      "zh": "淡蓝色坐垫",
-      "en": "Light Blue Cushion"
+      "ko": "하늘색 쿠션",
+      "zh": "淡蓝色坐垫"
     },
     "yellow_cushion": {
-      "ko": "노란색 쿠션",
+      "en": "Yellow Cushion",
       "ja": "黄のクッション",
-      "zh": "黄色坐垫",
-      "en": "Yellow Cushion"
+      "ko": "노란색 쿠션",
+      "zh": "黄色坐垫"
     },
     "lime_cushion": {
-      "ko": "연두색 쿠션",
+      "en": "Lime Cushion",
       "ja": "黄绿色のクッション",
-      "zh": "黄绿色坐垫",
-      "en": "Lime Cushion"
+      "ko": "연두색 쿠션",
+      "zh": "黄绿色坐垫"
     },
     "pink_cushion": {
-      "ko": "분홍색 쿠션",
+      "en": "Pink Cushion",
       "ja": "桃色のクッション",
-      "zh": "粉红色坐垫",
-      "en": "Pink Cushion"
+      "ko": "분홍색 쿠션",
+      "zh": "粉红色坐垫"
     },
     "gray_cushion": {
-      "ko": "회색 쿠션",
+      "en": "Gray Cushion",
       "ja": "灰色のクッション",
-      "zh": "灰色坐垫",
-      "en": "Gray Cushion"
+      "ko": "회색 쿠션",
+      "zh": "灰色坐垫"
     },
     "light_gray_cushion": {
-      "ko": "밝은 회색 쿠션",
+      "en": "Light Gray Cushion",
       "ja": "薄灰色のクッション",
-      "zh": "淡灰色坐垫",
-      "en": "Light Gray Cushion"
+      "ko": "밝은 회색 쿠션",
+      "zh": "淡灰色坐垫"
     },
     "cyan_cushion": {
-      "ko": "청록색 쿠션",
+      "en": "Cyan Cushion",
       "ja": "青緑のクッション",
-      "zh": "青色坐垫",
-      "en": "Cyan Cushion"
+      "ko": "청록색 쿠션",
+      "zh": "青色坐垫"
     },
     "purple_cushion": {
-      "ko": "보라색 쿠션",
+      "en": "Purple Cushion",
       "ja": "紫色のクッション",
-      "zh": "紫色坐垫",
-      "en": "Purple Cushion"
+      "ko": "보라색 쿠션",
+      "zh": "紫色坐垫"
     },
     "blue_cushion": {
-      "ko": "파란색 쿠션",
+      "en": "Blue Cushion",
       "ja": "青のクッション",
-      "zh": "蓝色坐垫",
-      "en": "Blue Cushion"
+      "ko": "파란색 쿠션",
+      "zh": "蓝色坐垫"
     },
     "brown_cushion": {
-      "ko": "갈색 쿠션",
+      "en": "Brown Cushion",
       "ja": "茶色のクッション",
-      "zh": "棕色坐垫",
-      "en": "Brown Cushion"
+      "ko": "갈색 쿠션",
+      "zh": "棕色坐垫"
     },
     "green_cushion": {
-      "ko": "초록색 쿠션",
+      "en": "Green Cushion",
       "ja": "緑色のクッション",
-      "zh": "绿色坐垫",
-      "en": "Green Cushion"
+      "ko": "초록색 쿠션",
+      "zh": "绿色坐垫"
     },
     "red_cushion": {
-      "ko": "빨간색 쿠션",
+      "en": "Red Cushion",
       "ja": "赤色のクッション",
-      "zh": "红色坐垫",
-      "en": "Red Cushion"
+      "ko": "빨간색 쿠션",
+      "zh": "红色坐垫"
     },
     "black_cushion": {
-      "ko": "검은색 쿠션",
+      "en": "Black Cushion",
       "ja": "黒のクッション",
-      "zh": "黑色坐垫",
-      "en": "Black Cushion"
+      "ko": "검은색 쿠션",
+      "zh": "黑色坐垫"
     }
   },
   "block": {
@@ -30727,6 +30991,210 @@
       "ja": "黄ポプラの葉",
       "zh": "黄色杨树树叶",
       "en": "Yellow Poplar Leaves"
+    },
+    "white_concrete_slab": {
+      "en": "White Concrete Slab",
+      "ja": "白コンクリートスラブ",
+      "ko": "흰콘크리트 슬래브",
+      "zh": "白色混凝土台阶"
+    },
+    "white_concrete_stairs": {
+      "en": "White Concrete Stairs",
+      "ja": "白コンクリートの階段",
+      "ko": "흰콘크리트 계단",
+      "zh": "白色混凝土楼梯"
+    },
+    "orange_concrete_slab": {
+      "en": "Orange Concrete Slab",
+      "ja": "橙コンクリートスラブ",
+      "ko": "주황색콘크리트 슬래브",
+      "zh": "橙色混凝土台阶"
+    },
+    "orange_concrete_stairs": {
+      "en": "Orange Concrete Stairs",
+      "ja": "橙コンクリートの階段",
+      "ko": "주황색콘크리트 계단",
+      "zh": "橙色混凝土楼梯"
+    },
+    "magenta_concrete_slab": {
+      "en": "Magenta Concrete Slab",
+      "ja": "マゼンタコンクリートスラブ",
+      "ko": "자홍색콘크리트 슬래브",
+      "zh": "品红色混凝土台阶"
+    },
+    "magenta_concrete_stairs": {
+      "en": "Magenta Concrete Stairs",
+      "ja": "マゼンタコンクリートの階段",
+      "ko": "자홍색콘크리트 계단",
+      "zh": "品红色混凝土楼梯"
+    },
+    "light_blue_concrete_slab": {
+      "en": "Light Blue Concrete Slab",
+      "ja": "水色コンクリートスラブ",
+      "ko": "하늘색콘크리트 슬래브",
+      "zh": "淡蓝色混凝土台阶"
+    },
+    "light_blue_concrete_stairs": {
+      "en": "Light Blue Concrete Stairs",
+      "ja": "水色コンクリートの階段",
+      "ko": "하늘색콘크리트 계단",
+      "zh": "淡蓝色混凝土楼梯"
+    },
+    "yellow_concrete_slab": {
+      "en": "Yellow Concrete Slab",
+      "ja": "黄コンクリートスラブ",
+      "ko": "노란콘크리트 슬래브",
+      "zh": "黄色混凝土台阶"
+    },
+    "yellow_concrete_stairs": {
+      "en": "Yellow Concrete Stairs",
+      "ja": "黄コンクリートの階段",
+      "ko": "노란콘크리트 계단",
+      "zh": "黄色混凝土楼梯"
+    },
+    "lime_concrete_slab": {
+      "en": "Lime Concrete Slab",
+      "ja": "黄緑コンクリートスラブ",
+      "ko": "연두색콘크리트 슬래브",
+      "zh": "黄绿色混凝土台阶"
+    },
+    "lime_concrete_stairs": {
+      "en": "Lime Concrete Stairs",
+      "ja": "黄緑コンクリートの階段",
+      "ko": "연두색콘크리트 계단",
+      "zh": "黄绿色混凝土楼梯"
+    },
+    "pink_concrete_slab": {
+      "en": "Pink Concrete Slab",
+      "ja": "ピンクコンクリートスラブ",
+      "ko": "분홍색콘크리트 슬래브",
+      "zh": "粉红色混凝土台阶"
+    },
+    "pink_concrete_stairs": {
+      "en": "Pink Concrete Stairs",
+      "ja": "ピンクコンクリートの階段",
+      "ko": "분홍색콘크리트 계단",
+      "zh": "粉红色混凝土楼梯"
+    },
+    "gray_concrete_slab": {
+      "en": "Gray Concrete Slab",
+      "ja": "灰コンクリートスラブ",
+      "ko": "회색콘크리트 슬래브",
+      "zh": "灰色混凝土台阶"
+    },
+    "gray_concrete_stairs": {
+      "en": "Gray Concrete Stairs",
+      "ja": "灰コンクリートの階段",
+      "ko": "회색콘크리트 계단",
+      "zh": "灰色混凝土楼梯"
+    },
+    "light_gray_concrete_slab": {
+      "en": "Light Gray Concrete Slab",
+      "ja": "薄い灰色コンクリートスラブ",
+      "ko": "옅은 회색콘크리트 슬래브",
+      "zh": "淡灰色混凝土台阶"
+    },
+    "light_gray_concrete_stairs": {
+      "en": "Light Gray Concrete Stairs",
+      "ja": "薄い灰色コンクリートの階段",
+      "ko": "옅은 회색콘크리트 계단",
+      "zh": "淡灰色混凝土楼梯"
+    },
+    "cyan_concrete_slab": {
+      "en": "Cyan Concrete Slab",
+      "ja": "シアンコンクリートスラブ",
+      "ko": "청록색콘크리트 슬래브",
+      "zh": "青色混凝土台阶"
+    },
+    "cyan_concrete_stairs": {
+      "en": "Cyan Concrete Stairs",
+      "ja": "シアンコンクリートの階段",
+      "ko": "청록색콘크리트 계단",
+      "zh": "青色混凝土楼梯"
+    },
+    "purple_concrete_slab": {
+      "en": "Purple Concrete Slab",
+      "ja": "紫コンクリートスラブ",
+      "ko": "보라색콘크리트 슬래브",
+      "zh": "紫色混凝土台阶"
+    },
+    "purple_concrete_stairs": {
+      "en": "Purple Concrete Stairs",
+      "ja": "紫コンクリートの階段",
+      "ko": "보라색콘크리트 계단",
+      "zh": "紫色混凝土楼梯"
+    },
+    "blue_concrete_slab": {
+      "en": "Blue Concrete Slab",
+      "ja": "青コンクリートスラブ",
+      "ko": "파란콘크리트 슬래브",
+      "zh": "蓝色混凝土台阶"
+    },
+    "blue_concrete_stairs": {
+      "en": "Blue Concrete Stairs",
+      "ja": "青コンクリートの階段",
+      "ko": "파란콘크리트 계단",
+      "zh": "蓝色混凝土楼梯"
+    },
+    "brown_concrete_slab": {
+      "en": "Brown Concrete Slab",
+      "ja": "茶コンクリートスラブ",
+      "ko": "갈색콘크리트 슬래브",
+      "zh": "棕色混凝土台阶"
+    },
+    "brown_concrete_stairs": {
+      "en": "Brown Concrete Stairs",
+      "ja": "茶コンクリートの階段",
+      "ko": "갈색콘크리트 계단",
+      "zh": "棕色混凝土楼梯"
+    },
+    "green_concrete_slab": {
+      "en": "Green Concrete Slab",
+      "ja": "緑コンクリートスラブ",
+      "ko": "초록색콘크리트 슬래브",
+      "zh": "绿色混凝土台阶"
+    },
+    "green_concrete_stairs": {
+      "en": "Green Concrete Stairs",
+      "ja": "緑コンクリートの階段",
+      "ko": "초록색콘크리트 계단",
+      "zh": "绿色混凝土楼梯"
+    },
+    "red_concrete_slab": {
+      "en": "Red Concrete Slab",
+      "ja": "赤コンクリートスラブ",
+      "ko": "빨간콘크리트 슬래브",
+      "zh": "红色混凝土台阶"
+    },
+    "red_concrete_stairs": {
+      "en": "Red Concrete Stairs",
+      "ja": "赤コンクリートの階段",
+      "ko": "빨간콘크리트 계단",
+      "zh": "红色混凝土楼梯"
+    },
+    "black_concrete_slab": {
+      "en": "Black Concrete Slab",
+      "ja": "黒コンクリートスラブ",
+      "ko": "검은콘크리트 슬래브",
+      "zh": "黑色混凝土台阶"
+    },
+    "black_concrete_stairs": {
+      "en": "Black Concrete Stairs",
+      "ja": "黒コンクリートの階段",
+      "ko": "검은콘크리트 계단",
+      "zh": "黑色混凝土楼梯"
+    },
+    "shelf_mushroom": {
+      "en": "Shelf Mushroom",
+      "ja": "棚のキノコ",
+      "ko": "선반 버섯",
+      "zh": "层孔菇"
+    },
+    "red_shrub": {
+      "en": "Red Shrub",
+      "ja": "赤い低木",
+      "ko": "빨간 덤불",
+      "zh": "红灌木"
     }
   },
   "biome": {
@@ -48171,6 +48639,198 @@
       "ja": "[作業台] 干し草の俵*3 ~> 麦わらのベッド*4",
       "zh": "<工作台>干草捆*3~>麦秆床*4",
       "en": "[Crafting Table] Hay Bale*3 ~> Straw Bed*4"
+    },
+    "minecraft:white_concrete_slab": {
+      "en": "[Crafting Table] White Concrete*2 -> White Concrete Slab*6",
+      "ja": "[作業台] 白のコンクリート*2 → 白のコンクリートハーフブロック*6",
+      "ko": "[제작대] 하얀색 콘크리트*2 → 하얀색 콘크리트 반 블록*6",
+      "zh": "<工作台>白色混凝土*2->白色混凝土台阶*6"
+    },
+    "minecraft:white_concrete_stairs": {
+      "en": "[Crafting Table] White Concrete*6 -> White Concrete Stairs*4",
+      "ja": "[作業台] 白のコンクリート*6 → 白のコンクリートの階段*4",
+      "ko": "[제작대] 하얀색 콘크리트*6 → 하얀색 콘크리트 계단*4",
+      "zh": "<工作台>白色混凝土*6->白色混凝土楼梯*4"
+    },
+    "minecraft:orange_concrete_slab": {
+      "en": "[Crafting Table] Orange Concrete*2 -> Orange Concrete Slab*6",
+      "ja": "[作業台] 橙色のコンクリート*2 → 橙色のコンクリートハーフブロック*6",
+      "ko": "[제작대] 주황색 콘크리트*2 → 주황색 콘크리트 반 블록*6",
+      "zh": "<工作台>橙色混凝土*2->橙色混凝土台阶*6"
+    },
+    "minecraft:orange_concrete_stairs": {
+      "en": "[Crafting Table] Orange Concrete*6 -> Orange Concrete Stairs*4",
+      "ja": "[作業台] 橙色のコンクリート*6 → 橙色のコンクリートの階段*4",
+      "ko": "[제작대] 주황색 콘크리트*6 → 주황색 콘크리트 계단*4",
+      "zh": "<工作台>橙色混凝土*6->橙色混凝土楼梯*4"
+    },
+    "minecraft:magenta_concrete_slab": {
+      "en": "[Crafting Table] Magenta Concrete*2 -> Magenta Concrete Slab*6",
+      "ja": "[作業台] 赤紫色のコンクリート*2 → 赤紫色のコンクリートハーフブロック*6",
+      "ko": "[제작대] 자홍색 콘크리트*2 → 자홍색 콘크리트 반 블록*6",
+      "zh": "<工作台>品红色混凝土*2->品红色混凝土台阶*6"
+    },
+    "minecraft:magenta_concrete_stairs": {
+      "en": "[Crafting Table] Magenta Concrete*6 -> Magenta Concrete Stairs*4",
+      "ja": "[作業台] 赤紫色のコンクリート*6 → 赤紫色のコンクリートの階段*4",
+      "ko": "[제작대] 자홍색 콘크리트*6 → 자홍색 콘크리트 계단*4",
+      "zh": "<工作台>品红色混凝土*6->品红色混凝土楼梯*4"
+    },
+    "minecraft:light_blue_concrete_slab": {
+      "en": "[Crafting Table] Light Blue Concrete*2 -> Light Blue Concrete Slab*6",
+      "ja": "[作業台] 水色のコンクリート*2 → 水色のコンクリートハーフブロック*6",
+      "ko": "[제작대] 하늘색 콘크리트*2 → 하늘색 콘크리트 반 블록*6",
+      "zh": "<工作台>淡蓝色混凝土*2->淡蓝色混凝土台阶*6"
+    },
+    "minecraft:light_blue_concrete_stairs": {
+      "en": "[Crafting Table] Light Blue Concrete*6 -> Light Blue Concrete Stairs*4",
+      "ja": "[作業台] 水色のコンクリート*6 → 水色のコンクリートの階段*4",
+      "ko": "[제작대] 하늘색 콘크리트*6 → 하늘색 콘크리트 계단*4",
+      "zh": "<工作台>淡蓝色混凝土*6->淡蓝色混凝土楼梯*4"
+    },
+    "minecraft:yellow_concrete_slab": {
+      "en": "[Crafting Table] Yellow Concrete*2 -> Yellow Concrete Slab*6",
+      "ja": "[作業台] 黄のコンクリート*2 → 黄のコンクリートハーフブロック*6",
+      "ko": "[제작대] 노란색 콘크리트*2 → 노란색 콘크리트 반 블록*6",
+      "zh": "<工作台>黄色混凝土*2->黄色混凝土台阶*6"
+    },
+    "minecraft:yellow_concrete_stairs": {
+      "en": "[Crafting Table] Yellow Concrete*6 -> Yellow Concrete Stairs*4",
+      "ja": "[作業台] 黄のコンクリート*6 → 黄のコンクリートの階段*4",
+      "ko": "[제작대] 노란색 콘크리트*6 → 노란색 콘크리트 계단*4",
+      "zh": "<工作台>黄色混凝土*6->黄色混凝土楼梯*4"
+    },
+    "minecraft:lime_concrete_slab": {
+      "en": "[Crafting Table] Lime Concrete*2 -> Lime Concrete Slab*6",
+      "ja": "[作業台] 黄緑色のコンクリート*2 → 黄緑色のコンクリートハーフブロック*6",
+      "ko": "[제작대] 연두색 콘크리트*2 → 연두색 콘크리트 반 블록*6",
+      "zh": "<工作台>黄绿色混凝土*2->黄绿色混凝土台阶*6"
+    },
+    "minecraft:lime_concrete_stairs": {
+      "en": "[Crafting Table] Lime Concrete*6 -> Lime Concrete Stairs*4",
+      "ja": "[作業台] 黄緑色のコンクリート*6 → 黄緑色のコンクリートの階段*4",
+      "ko": "[제작대] 연두색 콘크리트*6 → 연두색 콘크리트 계단*4",
+      "zh": "<工作台>黄绿色混凝土*6->黄绿色混凝土楼梯*4"
+    },
+    "minecraft:pink_concrete_slab": {
+      "en": "[Crafting Table] Pink Concrete*2 -> Pink Concrete Slab*6",
+      "ja": "[作業台] 桃色のコンクリート*2 → 桃色のコンクリートハーフブロック*6",
+      "ko": "[제작대] 분홍색 콘크리트*2 → 분홍색 콘크리트 반 블록*6",
+      "zh": "<工作台>粉红色混凝土*2->粉红色混凝土台阶*6"
+    },
+    "minecraft:pink_concrete_stairs": {
+      "en": "[Crafting Table] Pink Concrete*6 -> Pink Concrete Stairs*4",
+      "ja": "[作業台] 桃色のコンクリート*6 → 桃色のコンクリートの階段*4",
+      "ko": "[제작대] 분홍색 콘크리트*6 → 분홍색 콘크리트 계단*4",
+      "zh": "<工作台>粉红色混凝土*6->粉红色混凝土楼梯*4"
+    },
+    "minecraft:gray_concrete_slab": {
+      "en": "[Crafting Table] Gray Concrete*2 -> Gray Concrete Slab*6",
+      "ja": "[作業台] 灰色のコンクリート*2 → 灰色のコンクリートハーフブロック*6",
+      "ko": "[제작대] 회색 콘크리트*2 → 회색 콘크리트 반 블록*6",
+      "zh": "<工作台>灰色混凝土*2->灰色混凝土台阶*6"
+    },
+    "minecraft:gray_concrete_stairs": {
+      "en": "[Crafting Table] Gray Concrete*6 -> Gray Concrete Stairs*4",
+      "ja": "[作業台] 灰色のコンクリート*6 → 灰色のコンクリートの階段*4",
+      "ko": "[제작대] 회색 콘크리트*6 → 회색 콘크리트 계단*4",
+      "zh": "<工作台>灰色混凝土*6->灰色混凝土楼梯*4"
+    },
+    "minecraft:light_gray_concrete_slab": {
+      "en": "[Crafting Table] Light Gray Concrete*2 -> Light Gray Concrete Slab*6",
+      "ja": "[作業台] 薄灰色のコンクリート*2 → 薄灰色のコンクリートハーフブロック*6",
+      "ko": "[제작대] 밝은 회색 콘크리트*2 → 밝은 회색 콘크리트 반 블록*6",
+      "zh": "<工作台>淡灰色混凝土*2->淡灰色混凝土台阶*6"
+    },
+    "minecraft:light_gray_concrete_stairs": {
+      "en": "[Crafting Table] Light Gray Concrete*6 -> Light Gray Concrete Stairs*4",
+      "ja": "[作業台] 薄灰色のコンクリート*6 → 薄灰色のコンクリートの階段*4",
+      "ko": "[제작대] 밝은 회색 콘크리트*6 → 밝은 회색 콘크리트 계단*4",
+      "zh": "<工作台>淡灰色混凝土*6->淡灰色混凝土楼梯*4"
+    },
+    "minecraft:cyan_concrete_slab": {
+      "en": "[Crafting Table] Cyan Concrete*2 -> Cyan Concrete Slab*6",
+      "ja": "[作業台] 青緑のコンクリート*2 → 青緑のコンクリートハーフブロック*6",
+      "ko": "[제작대] 청록색 콘크리트*2 → 청록색 콘크리트 반 블록*6",
+      "zh": "<工作台>青色混凝土*2->青色混凝土台阶*6"
+    },
+    "minecraft:cyan_concrete_stairs": {
+      "en": "[Crafting Table] Cyan Concrete*6 -> Cyan Concrete Stairs*4",
+      "ja": "[作業台] 青緑のコンクリート*6 → 青緑のコンクリートの階段*4",
+      "ko": "[제작대] 청록색 콘크리트*6 → 청록색 콘크리트 계단*4",
+      "zh": "<工作台>青色混凝土*6->青色混凝土楼梯*4"
+    },
+    "minecraft:purple_concrete_slab": {
+      "en": "[Crafting Table] Purple Concrete*2 -> Purple Concrete Slab*6",
+      "ja": "[作業台] 紫色のコンクリート*2 → 紫色のコンクリートハーフブロック*6",
+      "ko": "[제작대] 보라색 콘크리트*2 → 보라색 콘크리트 반 블록*6",
+      "zh": "<工作台>紫色混凝土*2->紫色混凝土台阶*6"
+    },
+    "minecraft:purple_concrete_stairs": {
+      "en": "[Crafting Table] Purple Concrete*6 -> Purple Concrete Stairs*4",
+      "ja": "[作業台] 紫色のコンクリート*6 → 紫色のコンクリートの階段*4",
+      "ko": "[제작대] 보라색 콘크리트*6 → 보라색 콘크리트 계단*4",
+      "zh": "<工作台>紫色混凝土*6->紫色混凝土楼梯*4"
+    },
+    "minecraft:blue_concrete_slab": {
+      "en": "[Crafting Table] Blue Concrete*2 -> Blue Concrete Slab*6",
+      "ja": "[作業台] 青のコンクリート*2 → 青のコンクリートハーフブロック*6",
+      "ko": "[제작대] 파란색 콘크리트*2 → 파란색 콘크리트 반 블록*6",
+      "zh": "<工作台>蓝色混凝土*2->蓝色混凝土台阶*6"
+    },
+    "minecraft:blue_concrete_stairs": {
+      "en": "[Crafting Table] Blue Concrete*6 -> Blue Concrete Stairs*4",
+      "ja": "[作業台] 青のコンクリート*6 → 青のコンクリートの階段*4",
+      "ko": "[제작대] 파란색 콘크리트*6 → 파란색 콘크리트 계단*4",
+      "zh": "<工作台>蓝色混凝土*6->蓝色混凝土楼梯*4"
+    },
+    "minecraft:brown_concrete_slab": {
+      "en": "[Crafting Table] Brown Concrete*2 -> Brown Concrete Slab*6",
+      "ja": "[作業台] 茶色のコンクリート*2 → 茶色のコンクリートハーフブロック*6",
+      "ko": "[제작대] 갈색 콘크리트*2 → 갈색 콘크리트 반 블록*6",
+      "zh": "<工作台>棕色混凝土*2->棕色混凝土台阶*6"
+    },
+    "minecraft:brown_concrete_stairs": {
+      "en": "[Crafting Table] Brown Concrete*6 -> Brown Concrete Stairs*4",
+      "ja": "[作業台] 茶色のコンクリート*6 → 茶色のコンクリートの階段*4",
+      "ko": "[제작대] 갈색 콘크리트*6 → 갈색 콘크리트 계단*4",
+      "zh": "<工作台>棕色混凝土*6->棕色混凝土楼梯*4"
+    },
+    "minecraft:green_concrete_slab": {
+      "en": "[Crafting Table] Green Concrete*2 -> Green Concrete Slab*6",
+      "ja": "[作業台] 緑色のコンクリート*2 → 緑色のコンクリートハーフブロック*6",
+      "ko": "[제작대] 초록색 콘크리트*2 → 초록색 콘크리트 반 블록*6",
+      "zh": "<工作台>绿色混凝土*2->绿色混凝土台阶*6"
+    },
+    "minecraft:green_concrete_stairs": {
+      "en": "[Crafting Table] Green Concrete*6 -> Green Concrete Stairs*4",
+      "ja": "[作業台] 緑色のコンクリート*6 → 緑色のコンクリートの階段*4",
+      "ko": "[제작대] 초록색 콘크리트*6 → 초록색 콘크리트 계단*4",
+      "zh": "<工作台>绿色混凝土*6->绿色混凝土楼梯*4"
+    },
+    "minecraft:red_concrete_slab": {
+      "en": "[Crafting Table] Red Concrete*2 -> Red Concrete Slab*6",
+      "ja": "[作業台] 赤色のコンクリート*2 → 赤色のコンクリートハーフブロック*6",
+      "ko": "[제작대] 빨간색 콘크리트*2 → 빨간색 콘크리트 반 블록*6",
+      "zh": "<工作台>红色混凝土*2->红色混凝土台阶*6"
+    },
+    "minecraft:red_concrete_stairs": {
+      "en": "[Crafting Table] Red Concrete*6 -> Red Concrete Stairs*4",
+      "ja": "[作業台] 赤色のコンクリート*6 → 赤色のコンクリートの階段*4",
+      "ko": "[제작대] 빨간색 콘크리트*6 → 빨간색 콘크리트 계단*4",
+      "zh": "<工作台>红色混凝土*6->红色混凝土楼梯*4"
+    },
+    "minecraft:black_concrete_slab": {
+      "en": "[Crafting Table] Black Concrete*2 -> Black Concrete Slab*6",
+      "ja": "[作業台] 黒のコンクリート*2 → 黒のコンクリートハーフブロック*6",
+      "ko": "[제작대] 검은색 콘크리트*2 → 검은색 콘크리트 반 블록*6",
+      "zh": "<工作台>黑色混凝土*2->黑色混凝土台阶*6"
+    },
+    "minecraft:black_concrete_stairs": {
+      "en": "[Crafting Table] Black Concrete*6 -> Black Concrete Stairs*4",
+      "ja": "[作業台] 黒のコンクリート*6 → 黒のコンクリートの階段*4",
+      "ko": "[제작대] 검은색 콘크리트*6 → 검은색 콘크리트 계단*4",
+      "zh": "<工作台>黑色混凝土*6->黑色混凝土楼梯*4"
     }
   }
 }
